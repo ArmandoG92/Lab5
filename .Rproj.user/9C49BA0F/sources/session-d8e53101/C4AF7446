@@ -1,11 +1,11 @@
 {
     "id": "C4AF7446",
-    "path": null,
-    "project_path": null,
+    "path": "~/GitHub/Lab5/lab5.R",
+    "project_path": "lab5.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1776108894",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1757853819603.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 2409120969240,
-    "encoding": "",
+    "lastKnownWriteTime": 1757858083,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1757856511265,
+    "last_content_update": 1757858083041,
     "read_only": false,
     "read_only_alternatives": []
 }
