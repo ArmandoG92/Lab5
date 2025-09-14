@@ -1,1163 +1,1163 @@
-,MUNICIPIO,iteracion,ranking
-1,Tepeji Del Rio De Ocampo,"Ks,0",92
-2,Tepeji Del Rio De Ocampo,"Ks,2",84.01730072
-3,Tepeji Del Rio De Ocampo,"Ks,4",77.06363672
-4,Tepeji Del Rio De Ocampo,"Ks,6",71.16154603
-5,Tepeji Del Rio De Ocampo,"Ks,8",66.31054509
-6,Tepeji Del Rio De Ocampo,"Ks,10",62.41912127
-7,Tepeji Del Rio De Ocampo,"Ks,12",59.35110135
-8,Tepeji Del Rio De Ocampo,"Ks,14",56.96189373
-9,Tepeji Del Rio De Ocampo,"Ks,16",55.11765272
-10,Tepeji Del Rio De Ocampo,"Ks,18",53.70309697
-11,Tepeji Del Rio De Ocampo,"Ks,20",52.62310256
-12,Tepeji Del Rio De Ocampo,"Ks,22",51.80130066
-13,Tepeji Del Rio De Ocampo,"Ks,24",51.17749308
-14,Tepeji Del Rio De Ocampo,"Ks,26",50.70482319
-15,Atitalaquia,"Ks,0",47
-16,Atitalaquia,"Ks,2",60.74476528
-17,Atitalaquia,"Ks,4",64.65091142
-18,Atitalaquia,"Ks,6",64.40646304
-19,Atitalaquia,"Ks,8",62.56851519
-20,Atitalaquia,"Ks,10",60.30674964
-21,Atitalaquia,"Ks,12",58.13209255
-22,Atitalaquia,"Ks,14",56.23938991
-23,Atitalaquia,"Ks,16",54.6754537
-24,Atitalaquia,"Ks,18",53.4221975
-25,Atitalaquia,"Ks,20",52.43725824
-26,Atitalaquia,"Ks,22",51.67314312
-27,Atitalaquia,"Ks,24",51.08558991
-28,Atitalaquia,"Ks,26",50.63661891
-29,Tepeapulco,"Ks,0",41
-30,Tepeapulco,"Ks,2",44.37439024
-31,Tepeapulco,"Ks,4",47.11005993
-32,Tepeapulco,"Ks,6",48.95645508
-33,Tepeapulco,"Ks,8",50.08942668
-34,Tepeapulco,"Ks,10",50.72290976
-35,Tepeapulco,"Ks,12",51.02644118
-36,Tepeapulco,"Ks,14",51.12015028
-37,Tepeapulco,"Ks,16",51.08554787
-38,Tepeapulco,"Ks,18",50.97675175
-39,Tepeapulco,"Ks,20",50.82912608
-40,Tepeapulco,"Ks,22",50.66537683
-41,Tepeapulco,"Ks,24",50.49972257
-42,Tepeapulco,"Ks,26",50.3407206
-43,Tizayuca,"Ks,0",119
-44,Tizayuca,"Ks,2",92.6900212
-45,Tizayuca,"Ks,4",77.93787128
-46,Tizayuca,"Ks,6",68.93978886
-47,Tizayuca,"Ks,8",63.1308859
-48,Tizayuca,"Ks,10",59.22479238
-49,Tizayuca,"Ks,12",56.51763094
-50,Tizayuca,"Ks,14",54.59839763
-51,Tizayuca,"Ks,16",53.21447212
-52,Tizayuca,"Ks,18",52.20387608
-53,Tizayuca,"Ks,20",51.45900414
-54,Tizayuca,"Ks,22",50.90623728
-55,Tizayuca,"Ks,24",50.49399072
-56,Tizayuca,"Ks,26",50.1854297
-57,Mineral De La Reforma,"Ks,0",76
-58,Mineral De La Reforma,"Ks,2",71.51460575
-59,Mineral De La Reforma,"Ks,4",67.1666624
-60,Mineral De La Reforma,"Ks,6",63.30821696
-61,Mineral De La Reforma,"Ks,8",60.10644706
-62,Mineral De La Reforma,"Ks,10",57.55063544
-63,Mineral De La Reforma,"Ks,12",55.55645405
-64,Mineral De La Reforma,"Ks,14",54.02174525
-65,Mineral De La Reforma,"Ks,16",52.85062421
-66,Mineral De La Reforma,"Ks,18",51.96171627
-67,Mineral De La Reforma,"Ks,20",51.28932912
-68,Mineral De La Reforma,"Ks,22",50.78187204
-69,Mineral De La Reforma,"Ks,24",50.39947653
-70,Mineral De La Reforma,"Ks,26",50.11163293
-71,Pachuca,"Ks,0",125
-72,Pachuca,"Ks,2",91.0179351
-73,Pachuca,"Ks,4",74.20517543
-74,Pachuca,"Ks,6",65.06185283
-75,Pachuca,"Ks,8",59.73662262
-76,Pachuca,"Ks,10",56.45106567
-77,Pachuca,"Ks,12",54.3236061
-78,Pachuca,"Ks,14",52.8913522
-79,Pachuca,"Ks,16",51.89767548
-80,Pachuca,"Ks,18",51.19261355
-81,Pachuca,"Ks,20",50.68408614
-82,Pachuca,"Ks,22",50.31298839
-83,Pachuca,"Ks,24",50.03992426
-84,Pachuca,"Ks,26",49.83782108
-85,Tula De Allende,"Ks,0",40
-86,Tula De Allende,"Ks,2",51.37064762
-87,Tula De Allende,"Ks,4",53.4302078
-88,Tula De Allende,"Ks,6",53.05969244
-89,Tula De Allende,"Ks,8",52.250749
-90,Tula De Allende,"Ks,10",51.51079666
-91,Tula De Allende,"Ks,12",50.93134808
-92,Tula De Allende,"Ks,14",50.49845177
-93,Tula De Allende,"Ks,16",50.17929193
-94,Tula De Allende,"Ks,18",49.94414667
-95,Tula De Allende,"Ks,20",49.77022694
-96,Tula De Allende,"Ks,22",49.64092929
-97,Tula De Allende,"Ks,24",49.54432082
-98,Tula De Allende,"Ks,26",49.47181671
-99,Atotonilco De Tula,"Ks,0",40
-100,Atotonilco De Tula,"Ks,2",47.24594524
-101,Atotonilco De Tula,"Ks,4",49.46630332
-102,Atotonilco De Tula,"Ks,6",49.99210981
-103,Atotonilco De Tula,"Ks,8",49.99967473
-104,Atotonilco De Tula,"Ks,10",49.87944819
-105,Atotonilco De Tula,"Ks,12",49.75146427
-106,Atotonilco De Tula,"Ks,14",49.64550056
-107,Atotonilco De Tula,"Ks,16",49.56363078
-108,Atotonilco De Tula,"Ks,18",49.50116605
-109,Atotonilco De Tula,"Ks,20",49.4530354
-110,Atotonilco De Tula,"Ks,22",49.41529508
-111,Atotonilco De Tula,"Ks,24",49.38517029
-112,Atotonilco De Tula,"Ks,26",49.36076454
-113,Tolcayuca,"Ks,0",15
-114,Tolcayuca,"Ks,2",36.02273265
-115,Tolcayuca,"Ks,4",44.69360678
-116,Tolcayuca,"Ks,6",48.14253115
-117,Tolcayuca,"Ks,8",49.41256151
-118,Tolcayuca,"Ks,10",49.79324269
-119,Tolcayuca,"Ks,12",49.82982836
-120,Tolcayuca,"Ks,14",49.74954874
-121,Tolcayuca,"Ks,16",49.64357165
-122,Tolcayuca,"Ks,18",49.545425
-123,Tolcayuca,"Ks,20",49.4648808
-124,Tolcayuca,"Ks,22",49.40249499
-125,Tolcayuca,"Ks,24",49.35572143
-126,Tolcayuca,"Ks,26",49.32137364
-127,Tlahuelilpan,"Ks,0",7
-128,Tlahuelilpan,"Ks,2",43.2755418
-129,Tlahuelilpan,"Ks,4",49.86402897
-130,Tlahuelilpan,"Ks,6",50.47607396
-131,Tlahuelilpan,"Ks,8",50.11174757
-132,Tlahuelilpan,"Ks,10",49.75830384
-133,Tlahuelilpan,"Ks,12",49.5377288
-134,Tlahuelilpan,"Ks,14",49.41660025
-135,Tlahuelilpan,"Ks,16",49.35356546
-136,Tlahuelilpan,"Ks,18",49.3213467
-137,Tlahuelilpan,"Ks,20",49.30455471
-138,Tlahuelilpan,"Ks,22",49.29511267
-139,Tlahuelilpan,"Ks,24",49.28899413
-140,Tlahuelilpan,"Ks,26",49.28429893
-141,Lugo Guerrero,"Ks,0",21
-142,Lugo Guerrero,"Ks,2",40.53703533
-143,Lugo Guerrero,"Ks,4",47.14397158
-144,Lugo Guerrero,"Ks,6",49.09928156
-145,Lugo Guerrero,"Ks,8",49.54847688
-146,Lugo Guerrero,"Ks,10",49.56294448
-147,Lugo Guerrero,"Ks,12",49.48307169
-148,Lugo Guerrero,"Ks,14",49.40507038
-149,Lugo Guerrero,"Ks,16",49.34842185
-150,Lugo Guerrero,"Ks,18",49.31136658
-151,Lugo Guerrero,"Ks,20",49.28819593
-152,Lugo Guerrero,"Ks,22",49.27393378
-153,Lugo Guerrero,"Ks,24",49.26511901
-154,Lugo Guerrero,"Ks,26",49.25955748
-155,Nopala,"Ks,0",5
-156,Nopala,"Ks,2",41.90969697
-157,Nopala,"Ks,4",49.1164197
-158,Nopala,"Ks,6",49.95731734
-159,Nopala,"Ks,8",49.68098271
-160,Nopala,"Ks,10",49.37576458
-161,Nopala,"Ks,12",49.19375651
-162,Nopala,"Ks,14",49.10876198
-163,Nopala,"Ks,16",49.08041839
-164,Nopala,"Ks,18",49.08108085
-165,Nopala,"Ks,20",49.09488662
-166,Nopala,"Ks,22",49.11343866
-167,Nopala,"Ks,24",49.13256166
-168,Nopala,"Ks,26",49.15034575
-169,Tulancingo De Bravo,"Ks,0",45
-170,Tulancingo De Bravo,"Ks,2",44.13588503
-171,Tulancingo De Bravo,"Ks,4",45.93643657
-172,Tulancingo De Bravo,"Ks,6",47.1852178
-173,Tulancingo De Bravo,"Ks,8",47.89417991
-174,Tulancingo De Bravo,"Ks,10",48.29819156
-175,Tulancingo De Bravo,"Ks,12",48.54466607
-176,Tulancingo De Bravo,"Ks,14",48.70864395
-177,Tulancingo De Bravo,"Ks,16",48.82631905
-178,Tulancingo De Bravo,"Ks,18",48.91524399
-179,Tulancingo De Bravo,"Ks,20",48.98441453
-180,Tulancingo De Bravo,"Ks,22",49.03894025
-181,Tulancingo De Bravo,"Ks,24",49.08211473
-182,Tulancingo De Bravo,"Ks,26",49.11630731
-183,Singuilucan,"Ks,0",11
-184,Singuilucan,"Ks,2",29.77395382
-185,Singuilucan,"Ks,4",38.90492701
-186,Singuilucan,"Ks,6",43.46071415
-187,Singuilucan,"Ks,8",45.79691204
-188,Singuilucan,"Ks,10",47.04515091
-189,Singuilucan,"Ks,12",47.75139457
-190,Singuilucan,"Ks,14",48.17923968
-191,Singuilucan,"Ks,16",48.45700105
-192,Singuilucan,"Ks,18",48.64848762
-193,Singuilucan,"Ks,20",48.78666832
-194,Singuilucan,"Ks,22",48.88956491
-195,Singuilucan,"Ks,24",48.96774645
-196,Singuilucan,"Ks,26",49.02789029
-197,Huejutla,"Ks,0",23
-198,Huejutla,"Ks,2",40.73697152
-199,Huejutla,"Ks,4",44.05250708
-200,Huejutla,"Ks,6",45.3265031
-201,Huejutla,"Ks,8",46.15065065
-202,Huejutla,"Ks,10",46.7947011
-203,Huejutla,"Ks,12",47.31623301
-204,Huejutla,"Ks,14",47.736137
-205,Huejutla,"Ks,16",48.07007384
-206,Huejutla,"Ks,18",48.33284666
-207,Huejutla,"Ks,20",48.53805451
-208,Huejutla,"Ks,22",48.6975012
-209,Huejutla,"Ks,24",48.82100182
-210,Huejutla,"Ks,26",48.91648751
-211,Apan,"Ks,0",17
-212,Apan,"Ks,2",33.91778102
-213,Apan,"Ks,4",40.51903082
-214,Apan,"Ks,6",43.65082956
-215,Apan,"Ks,8",45.37966143
-216,Apan,"Ks,10",46.44812938
-217,Apan,"Ks,12",47.16431567
-218,Apan,"Ks,14",47.67139446
-219,Apan,"Ks,16",48.04315323
-220,Apan,"Ks,18",48.32157514
-221,Apan,"Ks,20",48.53277286
-222,Apan,"Ks,22",48.6942037
-223,Apan,"Ks,24",48.81816901
-224,Apan,"Ks,26",48.91364695
-225,Acatlan,"Ks,0",12
-226,Acatlan,"Ks,2",31.88454416
-227,Acatlan,"Ks,4",38.74582437
-228,Acatlan,"Ks,6",42.25337768
-229,Acatlan,"Ks,8",44.37654771
-230,Acatlan,"Ks,10",45.75411688
-231,Acatlan,"Ks,12",46.68751305
-232,Acatlan,"Ks,14",47.34257103
-233,Acatlan,"Ks,16",47.81541881
-234,Acatlan,"Ks,18",48.16386142
-235,Acatlan,"Ks,20",48.42421733
-236,Acatlan,"Ks,22",48.6204479
-237,Acatlan,"Ks,24",48.76910158
-238,Acatlan,"Ks,26",48.88203296
-239,Emiliano Zapata,"Ks,0",7
-240,Emiliano Zapata,"Ks,2",31.502511
-241,Emiliano Zapata,"Ks,4",40.38518064
-242,Emiliano Zapata,"Ks,6",43.83731089
-243,Emiliano Zapata,"Ks,8",45.43916067
-244,Emiliano Zapata,"Ks,10",46.37047472
-245,Emiliano Zapata,"Ks,12",47.01434387
-246,Emiliano Zapata,"Ks,14",47.50078801
-247,Emiliano Zapata,"Ks,16",47.88068647
-248,Emiliano Zapata,"Ks,18",48.17976934
-249,Emiliano Zapata,"Ks,20",48.41496696
-250,Emiliano Zapata,"Ks,22",48.59925477
-251,Emiliano Zapata,"Ks,24",48.74311677
-252,Emiliano Zapata,"Ks,26",48.85508158
-253,Metepec,"Ks,0",13
-254,Metepec,"Ks,2",32.93461262
-255,Metepec,"Ks,4",39.57553502
-256,Metepec,"Ks,6",42.75822495
-257,Metepec,"Ks,8",44.59588154
-258,Metepec,"Ks,10",45.79075894
-259,Metepec,"Ks,12",46.63022967
-260,Metepec,"Ks,14",47.24767068
-261,Metepec,"Ks,16",47.71298995
-262,Metepec,"Ks,18",48.06779729
-263,Metepec,"Ks,20",48.33971684
-264,Metepec,"Ks,22",48.54850601
-265,Metepec,"Ks,24",48.70890194
-266,Metepec,"Ks,26",48.83212289
-267,Alfajayucan,"Ks,0",9
-268,Alfajayucan,"Ks,2",33.38938627
-269,Alfajayucan,"Ks,4",39.03595064
-270,Alfajayucan,"Ks,6",41.76433647
-271,Alfajayucan,"Ks,8",43.60597207
-272,Alfajayucan,"Ks,10",44.965965
-273,Alfajayucan,"Ks,12",45.99282545
-274,Alfajayucan,"Ks,14",46.7725521
-275,Alfajayucan,"Ks,16",47.36534587
-276,Alfajayucan,"Ks,18",47.81600496
-277,Alfajayucan,"Ks,20",48.15849496
-278,Alfajayucan,"Ks,22",48.4186987
-279,Alfajayucan,"Ks,24",48.61634982
-280,Alfajayucan,"Ks,26",48.76648001
-281,Actopan,"Ks,0",21
-282,Actopan,"Ks,2",33.06932244
-283,Actopan,"Ks,4",38.40457283
-284,Actopan,"Ks,6",41.49351682
-285,Actopan,"Ks,8",43.53981113
-286,Actopan,"Ks,10",44.98170906
-287,Actopan,"Ks,12",46.03010019
-288,Actopan,"Ks,14",46.80645712
-289,Actopan,"Ks,16",47.38805887
-290,Actopan,"Ks,18",47.82705202
-291,Actopan,"Ks,20",48.16004453
-292,Actopan,"Ks,22",48.41346474
-293,Actopan,"Ks,24",48.60676722
-294,Actopan,"Ks,26",48.75446135
-295,Acaxochitlan,"Ks,0",11
-296,Acaxochitlan,"Ks,2",28.2955468
-297,Acaxochitlan,"Ks,4",35.63780629
-298,Acaxochitlan,"Ks,6",40.00898715
-299,Acaxochitlan,"Ks,8",42.74834012
-300,Acaxochitlan,"Ks,10",44.5450644
-301,Acaxochitlan,"Ks,12",45.77519377
-302,Acaxochitlan,"Ks,14",46.64762368
-303,Acaxochitlan,"Ks,16",47.28278387
-304,Acaxochitlan,"Ks,18",47.75365811
-305,Acaxochitlan,"Ks,20",48.10694523
-306,Acaxochitlan,"Ks,22",48.37406844
-307,Acaxochitlan,"Ks,24",48.57705542
-308,Acaxochitlan,"Ks,26",48.73181803
-309,Chapantongo,"Ks,0",3
-310,Chapantongo,"Ks,2",32.00505051
-311,Chapantongo,"Ks,4",37.45587572
-312,Chapantongo,"Ks,6",40.50828405
-313,Chapantongo,"Ks,8",42.70365296
-314,Chapantongo,"Ks,10",44.33175155
-315,Chapantongo,"Ks,12",45.5434715
-316,Chapantongo,"Ks,14",46.44751426
-317,Chapantongo,"Ks,16",47.12429487
-318,Chapantongo,"Ks,18",47.63284064
-319,Chapantongo,"Ks,20",48.01634744
-320,Chapantongo,"Ks,22",48.3064975
-321,Chapantongo,"Ks,24",48.52664091
-322,Chapantongo,"Ks,26",48.69408281
-323,Cuautepec,"Ks,0",18
-324,Cuautepec,"Ks,2",26.90531686
-325,Cuautepec,"Ks,4",34.6830589
-326,Cuautepec,"Ks,6",39.34753429
-327,Cuautepec,"Ks,8",42.26225161
-328,Cuautepec,"Ks,10",44.18039961
-329,Cuautepec,"Ks,12",45.50006719
-330,Cuautepec,"Ks,14",46.43986563
-331,Cuautepec,"Ks,16",47.12593522
-332,Cuautepec,"Ks,18",47.63526532
-333,Cuautepec,"Ks,20",48.01756711
-334,Cuautepec,"Ks,22",48.30656532
-335,Cuautepec,"Ks,24",48.52604199
-336,Cuautepec,"Ks,26",48.69323861
-337,Huichapan,"Ks,0",20
-338,Huichapan,"Ks,2",29.55293508
-339,Huichapan,"Ks,4",36.34920139
-340,Huichapan,"Ks,6",40.3294797
-341,Huichapan,"Ks,8",42.79471649
-342,Huichapan,"Ks,10",44.44905032
-343,Huichapan,"Ks,12",45.62677675
-344,Huichapan,"Ks,14",46.49500606
-345,Huichapan,"Ks,16",47.14703922
-346,Huichapan,"Ks,18",47.64127639
-347,Huichapan,"Ks,20",48.0176006
-348,Huichapan,"Ks,22",48.30477188
-349,Huichapan,"Ks,24",48.52415743
-350,Huichapan,"Ks,26",48.69187212
-351,Mixquiahuala,"Ks,0",19
-352,Mixquiahuala,"Ks,2",28.30830292
-353,Mixquiahuala,"Ks,4",35.46743201
-354,Mixquiahuala,"Ks,6",39.65106113
-355,Mixquiahuala,"Ks,8",42.29886877
-356,Mixquiahuala,"Ks,10",44.10373727
-357,Mixquiahuala,"Ks,12",45.39148583
-358,Mixquiahuala,"Ks,14",46.33495671
-359,Mixquiahuala,"Ks,16",47.03705448
-360,Mixquiahuala,"Ks,18",47.5644805
-361,Mixquiahuala,"Ks,20",47.96302674
-362,Mixquiahuala,"Ks,22",48.2653328
-363,Mixquiahuala,"Ks,24",48.49523102
-364,Mixquiahuala,"Ks,26",48.67039134
-365,Tlanalapa,"Ks,0",7
-366,Tlanalapa,"Ks,2",32.93042739
-367,Tlanalapa,"Ks,4",38.50008209
-368,Tlanalapa,"Ks,6",41.13373655
-369,Tlanalapa,"Ks,8",42.98993712
-370,Tlanalapa,"Ks,10",44.41747971
-371,Tlanalapa,"Ks,12",45.52634845
-372,Tlanalapa,"Ks,14",46.38546295
-373,Tlanalapa,"Ks,16",47.04868918
-374,Tlanalapa,"Ks,18",47.55922084
-375,Tlanalapa,"Ks,20",47.95140284
-376,Tlanalapa,"Ks,22",48.25225386
-377,Tlanalapa,"Ks,24",48.48284814
-378,Tlanalapa,"Ks,26",48.6595189
-379,Villa De Tezontepec,"Ks,0",7
-380,Villa De Tezontepec,"Ks,2",31.02729455
-381,Villa De Tezontepec,"Ks,4",36.56932999
-382,Villa De Tezontepec,"Ks,6",39.7164085
-383,Villa De Tezontepec,"Ks,8",41.97875175
-384,Villa De Tezontepec,"Ks,10",43.68223115
-385,Villa De Tezontepec,"Ks,12",44.98151404
-386,Villa De Tezontepec,"Ks,14",45.97688666
-387,Villa De Tezontepec,"Ks,16",46.74035145
-388,Villa De Tezontepec,"Ks,18",47.32584942
-389,Villa De Tezontepec,"Ks,20",47.77457856
-390,Villa De Tezontepec,"Ks,22",48.11824811
-391,Villa De Tezontepec,"Ks,24",48.38130975
-392,Villa De Tezontepec,"Ks,26",48.58260302
-393,San Agustin Tlaxiaca,"Ks,0",8
-394,San Agustin Tlaxiaca,"Ks,2",28.03911494
-395,San Agustin Tlaxiaca,"Ks,4",34.85502405
-396,San Agustin Tlaxiaca,"Ks,6",38.82901994
-397,San Agustin Tlaxiaca,"Ks,8",41.51481596
-398,San Agustin Tlaxiaca,"Ks,10",43.43100703
-399,San Agustin Tlaxiaca,"Ks,12",44.83872755
-400,San Agustin Tlaxiaca,"Ks,14",45.89113365
-401,San Agustin Tlaxiaca,"Ks,16",46.68597277
-402,San Agustin Tlaxiaca,"Ks,18",47.28969687
-403,San Agustin Tlaxiaca,"Ks,20",47.7496399
-404,San Agustin Tlaxiaca,"Ks,22",48.10058509
-405,San Agustin Tlaxiaca,"Ks,24",48.36857789
-406,San Agustin Tlaxiaca,"Ks,26",48.57332413
-407,Zapotlan,"Ks,0",8
-408,Zapotlan,"Ks,2",19.57454063
-409,Zapotlan,"Ks,4",29.32632123
-410,Zapotlan,"Ks,6",35.65370403
-411,Zapotlan,"Ks,8",39.6770245
-412,Zapotlan,"Ks,10",42.3241311
-413,Zapotlan,"Ks,12",44.14078934
-414,Zapotlan,"Ks,14",45.43217027
-415,Zapotlan,"Ks,16",46.37351483
-416,Zapotlan,"Ks,18",47.07116824
-417,Zapotlan,"Ks,20",47.5936805
-418,Zapotlan,"Ks,22",47.98761038
-419,Zapotlan,"Ks,24",48.28584855
-420,Zapotlan,"Ks,26",48.51226515
-421,Epazoyucan,"Ks,0",4
-422,Epazoyucan,"Ks,2",21.93392857
-423,Epazoyucan,"Ks,4",31.72405737
-424,Epazoyucan,"Ks,6",37.20604812
-425,Epazoyucan,"Ks,8",40.54310948
-426,Epazoyucan,"Ks,10",42.76242791
-427,Epazoyucan,"Ks,12",44.33759999
-428,Epazoyucan,"Ks,14",45.50075804
-429,Epazoyucan,"Ks,16",46.37814934
-430,Epazoyucan,"Ks,18",47.04683533
-431,Epazoyucan,"Ks,20",47.55870895
-432,Epazoyucan,"Ks,22",47.95113132
-433,Epazoyucan,"Ks,24",48.2520434
-434,Epazoyucan,"Ks,26",48.48273168
-435,San Salvador,"Ks,0",11
-436,San Salvador,"Ks,2",20.68640983
-437,San Salvador,"Ks,4",28.58999696
-438,San Salvador,"Ks,6",34.32692104
-439,San Salvador,"Ks,8",38.37477664
-440,San Salvador,"Ks,10",41.24613013
-441,San Salvador,"Ks,12",43.31136994
-442,San Salvador,"Ks,14",44.81698477
-443,San Salvador,"Ks,16",45.92642627
-444,San Salvador,"Ks,18",46.75036276
-445,San Salvador,"Ks,20",47.3656594
-446,San Salvador,"Ks,22",47.82692827
-447,San Salvador,"Ks,24",48.17366693
-448,San Salvador,"Ks,26",48.43481716
-449,Cardonal,"Ks,0",5
-450,Cardonal,"Ks,2",19.85482517
-451,Cardonal,"Ks,4",29.01672298
-452,Cardonal,"Ks,6",34.75163794
-453,Cardonal,"Ks,8",38.62411793
-454,Cardonal,"Ks,10",41.36212964
-455,Cardonal,"Ks,12",43.34939727
-456,Cardonal,"Ks,14",44.81465847
-457,Cardonal,"Ks,16",45.90563475
-458,Cardonal,"Ks,18",46.72291959
-459,Cardonal,"Ks,20",47.33754317
-460,Cardonal,"Ks,22",47.80090482
-461,Cardonal,"Ks,24",48.15080175
-462,Cardonal,"Ks,26",48.41531668
-463,Zempoala,"Ks,0",13
-464,Zempoala,"Ks,2",22.16585702
-465,Zempoala,"Ks,4",29.9987273
-466,Zempoala,"Ks,6",35.35642589
-467,Zempoala,"Ks,8",39.04603904
-468,Zempoala,"Ks,10",41.65542866
-469,Zempoala,"Ks,12",43.54574951
-470,Zempoala,"Ks,14",44.9398857
-471,Zempoala,"Ks,16",45.98064916
-472,Zempoala,"Ks,18",46.76369826
-473,Zempoala,"Ks,20",47.35572299
-474,Zempoala,"Ks,22",47.80467682
-475,Zempoala,"Ks,24",48.14578844
-476,Zempoala,"Ks,26",48.40529859
-477,Progreso,"Ks,0",12
-478,Progreso,"Ks,2",23.55001798
-479,Progreso,"Ks,4",30.52061146
-480,Progreso,"Ks,6",35.43954381
-481,Progreso,"Ks,8",38.96326206
-482,Progreso,"Ks,10",41.52961519
-483,Progreso,"Ks,12",43.4261618
-484,Progreso,"Ks,14",44.84221762
-485,Progreso,"Ks,16",45.90654129
-486,Progreso,"Ks,18",46.70980834
-487,Progreso,"Ks,20",47.3176212
-488,Progreso,"Ks,22",47.77831404
-489,Progreso,"Ks,24",48.12790801
-490,Progreso,"Ks,26",48.393435
-491,Zacualtipan,"Ks,0",6
-492,Zacualtipan,"Ks,2",22.70452543
-493,Zacualtipan,"Ks,4",29.14358271
-494,Zacualtipan,"Ks,6",33.96022077
-495,Zacualtipan,"Ks,8",37.70458997
-496,Zacualtipan,"Ks,10",40.56230558
-497,Zacualtipan,"Ks,12",42.71549307
-498,Zacualtipan,"Ks,14",44.32865338
-499,Zacualtipan,"Ks,16",45.53579405
-500,Zacualtipan,"Ks,18",46.44019093
-501,Zacualtipan,"Ks,20",47.11931194
-502,Zacualtipan,"Ks,22",47.63060327
-503,Zacualtipan,"Ks,24",48.01653158
-504,Zacualtipan,"Ks,26",48.30852647
-505,Tezontepec De Aldama,"Ks,0",11
-506,Tezontepec De Aldama,"Ks,2",16.44499569
-507,Tezontepec De Aldama,"Ks,4",25.62574744
-508,Tezontepec De Aldama,"Ks,6",32.3255505
-509,Tezontepec De Aldama,"Ks,8",36.95668285
-510,Tezontepec De Aldama,"Ks,10",40.20303516
-511,Tezontepec De Aldama,"Ks,12",42.52495288
-512,Tezontepec De Aldama,"Ks,14",44.21417537
-513,Tezontepec De Aldama,"Ks,16",45.4589874
-514,Tezontepec De Aldama,"Ks,18",46.38486971
-515,Tezontepec De Aldama,"Ks,20",47.07811735
-516,Tezontepec De Aldama,"Ks,22",47.59965533
-517,Tezontepec De Aldama,"Ks,24",47.99337708
-518,Tezontepec De Aldama,"Ks,26",48.29138122
-519,Tlaxcoapan,"Ks,0",10
-520,Tlaxcoapan,"Ks,2",19.22668824
-521,Tlaxcoapan,"Ks,4",27.29116866
-522,Tlaxcoapan,"Ks,6",33.16856241
-523,Tlaxcoapan,"Ks,8",37.36665408
-524,Tlaxcoapan,"Ks,10",40.39573131
-525,Tlaxcoapan,"Ks,12",42.61028312
-526,Tlaxcoapan,"Ks,14",44.24746855
-527,Tlaxcoapan,"Ks,16",45.46796787
-528,Tlaxcoapan,"Ks,18",46.38328788
-529,Tlaxcoapan,"Ks,20",47.07264276
-530,Tlaxcoapan,"Ks,22",47.59338459
-531,Tlaxcoapan,"Ks,24",47.98762701
-532,Tlaxcoapan,"Ks,26",48.28660548
-533,Mineral Del Monte,"Ks,0",1
-534,Mineral Del Monte,"Ks,2",17.49019608
-535,Mineral Del Monte,"Ks,4",27.13369412
-536,Mineral Del Monte,"Ks,6",33.19995522
-537,Mineral Del Monte,"Ks,8",37.36776624
-538,Mineral Del Monte,"Ks,10",40.36160066
-539,Mineral Del Monte,"Ks,12",42.56083954
-540,Mineral Del Monte,"Ks,14",44.19661774
-541,Mineral Del Monte,"Ks,16",45.42234469
-542,Mineral Del Monte,"Ks,18",46.34509094
-543,Mineral Del Monte,"Ks,20",47.04188726
-544,Mineral Del Monte,"Ks,22",47.56919344
-545,Mineral Del Monte,"Ks,24",47.96887473
-546,Mineral Del Monte,"Ks,26",48.27220472
-547,Almoloya,"Ks,0",9
-548,Almoloya,"Ks,2",19.77524979
-549,Almoloya,"Ks,4",27.17880285
-550,Almoloya,"Ks,6",32.80409083
-551,Almoloya,"Ks,8",36.96321128
-552,Almoloya,"Ks,10",40.02784901
-553,Almoloya,"Ks,12",42.29977256
-554,Almoloya,"Ks,14",43.9957282
-555,Almoloya,"Ks,16",45.26869141
-556,Almoloya,"Ks,18",46.22790759
-557,Almoloya,"Ks,20",46.95268047
-558,Almoloya,"Ks,22",47.5013729
-559,Almoloya,"Ks,24",47.91736229
-560,Almoloya,"Ks,26",48.23310421
-561,Ixmiquilpan,"Ks,0",16
-562,Ixmiquilpan,"Ks,2",19.14700597
-563,Ixmiquilpan,"Ks,4",26.08574654
-564,Ixmiquilpan,"Ks,6",32.03713219
-565,Ixmiquilpan,"Ks,8",36.49125806
-566,Ixmiquilpan,"Ks,10",39.74400144
-567,Ixmiquilpan,"Ks,12",42.12686734
-568,Ixmiquilpan,"Ks,14",43.88769216
-569,Ixmiquilpan,"Ks,16",45.19927541
-570,Ixmiquilpan,"Ks,18",46.1821395
-571,Ixmiquilpan,"Ks,20",46.9218348
-572,Ixmiquilpan,"Ks,22",47.48021216
-573,Ixmiquilpan,"Ks,24",47.90264322
-574,Ixmiquilpan,"Ks,26",48.22275834
-575,Tasquillo,"Ks,0",5
-576,Tasquillo,"Ks,2",17.45232385
-577,Tasquillo,"Ks,4",25.68898258
-578,Tasquillo,"Ks,6",31.90117744
-579,Tasquillo,"Ks,8",36.41550577
-580,Tasquillo,"Ks,10",39.69076682
-581,Tasquillo,"Ks,12",42.08856237
-582,Tasquillo,"Ks,14",43.86089622
-583,Tasquillo,"Ks,16",45.18107071
-584,Tasquillo,"Ks,18",46.1700641
-585,Tasquillo,"Ks,20",46.91400593
-586,Tasquillo,"Ks,22",47.475279
-587,Tasquillo,"Ks,24",47.89966695
-588,Tasquillo,"Ks,26",48.22109429
-589,Ajacuba,"Ks,0",9
-590,Ajacuba,"Ks,2",16.5042322
-591,Ajacuba,"Ks,4",25.03559406
-592,Ajacuba,"Ks,6",31.5446746
-593,Ajacuba,"Ks,8",36.22854957
-594,Ajacuba,"Ks,10",39.59349573
-595,Ajacuba,"Ks,12",42.03675702
-596,Ajacuba,"Ks,14",43.83155027
-597,Ajacuba,"Ks,16",45.16273586
-598,Ajacuba,"Ks,18",46.15722715
-599,Ajacuba,"Ks,20",46.904077
-600,Ajacuba,"Ks,22",47.46706267
-601,Ajacuba,"Ks,24",47.89261363
-602,Ajacuba,"Ks,26",48.21494379
-603,Francisco I.Madero,"Ks,0",9
-604,Francisco I.Madero,"Ks,2",16.00931572
-605,Francisco I.Madero,"Ks,4",24.89124776
-606,Francisco I.Madero,"Ks,6",31.38058458
-607,Francisco I.Madero,"Ks,8",36.01879023
-608,Francisco I.Madero,"Ks,10",39.37434676
-609,Francisco I.Madero,"Ks,12",41.83524409
-610,Francisco I.Madero,"Ks,14",43.65941114
-611,Francisco I.Madero,"Ks,16",45.021986
-612,Francisco I.Madero,"Ks,18",46.04520072
-613,Francisco I.Madero,"Ks,20",46.81641991
-614,Francisco I.Madero,"Ks,22",47.39922694
-615,Francisco I.Madero,"Ks,24",47.84049739
-616,Francisco I.Madero,"Ks,26",48.17509765
-617,Tecozautla,"Ks,0",15
-618,Tecozautla,"Ks,2",18.67371809
-619,Tecozautla,"Ks,4",26.08797245
-620,Tecozautla,"Ks,6",31.8651824
-621,Tecozautla,"Ks,8",36.19737233
-622,Tecozautla,"Ks,10",39.42535621
-623,Tecozautla,"Ks,12",41.83519328
-624,Tecozautla,"Ks,14",43.64108343
-625,Tecozautla,"Ks,16",44.99918982
-626,Tecozautla,"Ks,18",46.0234259
-627,Tecozautla,"Ks,20",46.79753171
-628,Tecozautla,"Ks,22",47.38356228
-629,Tecozautla,"Ks,24",47.82779989
-630,Tecozautla,"Ks,26",48.16492665
-631,Tetepango,"Ks,0",7
-632,Tetepango,"Ks,2",15.83261227
-633,Tetepango,"Ks,4",24.0853299
-634,Tetepango,"Ks,6",30.64983429
-635,Tetepango,"Ks,8",35.48003543
-636,Tetepango,"Ks,10",38.99613137
-637,Tetepango,"Ks,12",41.57149615
-638,Tetepango,"Ks,14",43.47430164
-639,Tetepango,"Ks,16",44.89078806
-640,Tetepango,"Ks,18",45.95131385
-641,Tetepango,"Ks,20",46.74868095
-642,Tetepango,"Ks,22",47.35003796
-643,Tetepango,"Ks,24",47.80460834
-644,Tetepango,"Ks,26",48.14882655
-645,Atotonilco El Grande,"Ks,0",10
-646,Atotonilco El Grande,"Ks,2",17.47171748
-647,Atotonilco El Grande,"Ks,4",25.03373195
-648,Atotonilco El Grande,"Ks,6",31.13204583
-649,Atotonilco El Grande,"Ks,8",35.71402484
-650,Atotonilco El Grande,"Ks,10",39.10544147
-651,Atotonilco El Grande,"Ks,12",41.61954581
-652,Atotonilco El Grande,"Ks,14",43.49268559
-653,Atotonilco El Grande,"Ks,16",44.8950837
-654,Atotonilco El Grande,"Ks,18",45.94916905
-655,Atotonilco El Grande,"Ks,20",46.74383618
-656,Atotonilco El Grande,"Ks,22",47.34430773
-657,Atotonilco El Grande,"Ks,24",47.79885555
-658,Atotonilco El Grande,"Ks,26",48.14344255
-659,Santiago De Anaya,"Ks,0",5
-660,Santiago De Anaya,"Ks,2",14.24343496
-661,Santiago De Anaya,"Ks,4",23.21414768
-662,Santiago De Anaya,"Ks,6",29.95916094
-663,Santiago De Anaya,"Ks,8",34.9016776
-664,Santiago De Anaya,"Ks,10",38.52342491
-665,Santiago De Anaya,"Ks,12",41.19479453
-666,Santiago De Anaya,"Ks,14",43.1792182
-667,Santiago De Anaya,"Ks,16",44.66209051
-668,Santiago De Anaya,"Ks,18",45.77519495
-669,Santiago De Anaya,"Ks,20",46.61355161
-670,Santiago De Anaya,"Ks,22",47.24656485
-671,Santiago De Anaya,"Ks,24",47.72544861
-672,Santiago De Anaya,"Ks,26",48.08828154
-673,El Arenal,"Ks,0",4
-674,El Arenal,"Ks,2",13.43174468
-675,El Arenal,"Ks,4",22.23426107
-676,El Arenal,"Ks,6",29.14896237
-677,El Arenal,"Ks,8",34.28515544
-678,El Arenal,"Ks,10",38.06388097
-679,El Arenal,"Ks,12",40.85328328
-680,El Arenal,"Ks,14",42.92486831
-681,El Arenal,"Ks,16",44.47202697
-682,El Arenal,"Ks,18",45.63272095
-683,El Arenal,"Ks,20",46.50646769
-684,El Arenal,"Ks,22",47.1659077
-685,El Arenal,"Ks,24",47.66459207
-686,El Arenal,"Ks,26",48.04230075
-687,ABI,"Ks,0",3
-688,ABI,"Ks,2",17.06851852
-689,ABI,"Ks,4",24.02314943
-690,ABI,"Ks,6",29.90255048
-691,ABI,"Ks,8",34.55118843
-692,ABI,"Ks,10",38.12338444
-693,ABI,"Ks,12",40.83536305
-694,ABI,"Ks,14",42.8840939
-695,ABI,"Ks,16",44.42945342
-696,ABI,"Ks,18",45.59529691
-697,ABI,"Ks,20",46.47561678
-698,ABI,"Ks,22",47.14112547
-699,ABI,"Ks,24",47.64486638
-700,ABI,"Ks,26",48.02662303
-701,Chilcuautla,"Ks,0",9
-702,Chilcuautla,"Ks,2",12.7659606
-703,Chilcuautla,"Ks,4",21.77830967
-704,Chilcuautla,"Ks,6",28.86702879
-705,Chilcuautla,"Ks,8",34.09309395
-706,Chilcuautla,"Ks,10",37.92198059
-707,Chilcuautla,"Ks,12",40.7439529
-708,Chilcuautla,"Ks,14",42.8393209
-709,Chilcuautla,"Ks,16",44.40490775
-710,Chilcuautla,"Ks,18",45.58017144
-711,Chilcuautla,"Ks,20",46.4654587
-712,Chilcuautla,"Ks,22",47.13399769
-713,Chilcuautla,"Ks,24",47.63981413
-714,Chilcuautla,"Ks,26",48.02308452
-715,Tepetitlan,"Ks,0",6
-716,Tepetitlan,"Ks,2",12.70471432
-717,Tepetitlan,"Ks,4",21.56017248
-718,Tepetitlan,"Ks,6",28.68001618
-719,Tepetitlan,"Ks,8",33.95882279
-720,Tepetitlan,"Ks,10",37.83229184
-721,Tepetitlan,"Ks,12",40.68623973
-722,Tepetitlan,"Ks,14",42.80293049
-723,Tepetitlan,"Ks,16",44.38221649
-724,Tepetitlan,"Ks,18",45.5661184
-725,Tepetitlan,"Ks,20",46.45681097
-726,Tepetitlan,"Ks,22",47.12872876
-727,Tepetitlan,"Ks,24",47.63666226
-728,Tepetitlan,"Ks,26",48.02126308
-729,SAM,"Ks,0",9
-730,SAM,"Ks,2",18.19020263
-731,SAM,"Ks,4",24.13443229
-732,SAM,"Ks,6",29.78271853
-733,SAM,"Ks,8",34.41091595
-734,SAM,"Ks,10",38.00246797
-735,SAM,"Ks,12",40.73714813
-736,SAM,"Ks,14",42.80573526
-737,SAM,"Ks,16",44.36756279
-738,SAM,"Ks,18",45.54681162
-739,SAM,"Ks,20",46.43789437
-740,SAM,"Ks,22",47.11193806
-741,SAM,"Ks,24",47.62237603
-742,SAM,"Ks,26",48.00934342
-743,SFO,"Ks,0",6
-744,SFO,"Ks,2",15.25237232
-745,SFO,"Ks,4",23.11566619
-746,SFO,"Ks,6",29.24074827
-747,SFO,"Ks,8",34.0117949
-748,SFO,"Ks,10",37.68748702
-749,SFO,"Ks,12",40.49145782
-750,SFO,"Ks,14",42.61776514
-751,SFO,"Ks,16",44.22563876
-752,SFO,"Ks,18",45.44041048
-753,SFO,"Ks,20",46.35836681
-754,SFO,"Ks,22",47.05254119
-755,SFO,"Ks,24",47.5779976
-756,SFO,"Ks,26",47.97615918
-757,Jaltocan,"Ks,0",3
-758,Jaltocan,"Ks,2",18.92713366
-759,Jaltocan,"Ks,4",24.69847699
-760,Jaltocan,"Ks,6",29.77714587
-761,Jaltocan,"Ks,8",34.14098478
-762,Jaltocan,"Ks,10",37.68228274
-763,Jaltocan,"Ks,12",40.45482115
-764,Jaltocan,"Ks,14",42.58282229
-765,Jaltocan,"Ks,16",44.19971349
-766,Jaltocan,"Ks,18",45.42272362
-767,Jaltocan,"Ks,20",46.34646547
-768,Jaltocan,"Ks,22",47.04427462
-769,Jaltocan,"Ks,24",47.57189728
-770,Jaltocan,"Ks,26",47.97133738
-771,Nicolas Flores,"Ks,0",4
-772,Nicolas Flores,"Ks,2",13.36767677
-773,Nicolas Flores,"Ks,4",21.3109567
-774,Nicolas Flores,"Ks,6",27.92235233
-775,Nicolas Flores,"Ks,8",33.06733419
-776,Nicolas Flores,"Ks,10",36.99104035
-777,Nicolas Flores,"Ks,12",39.96393917
-778,Nicolas Flores,"Ks,14",42.21228077
-779,Nicolas Flores,"Ks,16",43.91233548
-780,Nicolas Flores,"Ks,18",45.19834203
-781,Nicolas Flores,"Ks,20",46.17175888
-782,Nicolas Flores,"Ks,22",46.90909307
-783,Nicolas Flores,"Ks,24",47.46801543
-784,Nicolas Flores,"Ks,26",47.89201385
-785,Yahualica,"Ks,0",4
-786,Yahualica,"Ks,2",15.58802701
-787,Yahualica,"Ks,4",22.24185724
-788,Yahualica,"Ks,6",27.9748606
-789,Yahualica,"Ks,8",32.81267252
-790,Yahualica,"Ks,10",36.69743954
-791,Yahualica,"Ks,12",39.71978006
-792,Yahualica,"Ks,14",42.03143622
-793,Yahualica,"Ks,16",43.78478899
-794,Yahualica,"Ks,18",45.10995149
-795,Yahualica,"Ks,20",46.11049882
-796,Yahualica,"Ks,22",46.86618802
-797,Yahualica,"Ks,24",47.43747464
-798,Yahualica,"Ks,26",47.86986781
-799,Juarez Hidalgo,"Ks,0",3
-800,Juarez Hidalgo,"Ks,2",10.95970516
-801,Juarez Hidalgo,"Ks,4",19.33293214
-802,Juarez Hidalgo,"Ks,6",26.5843119
-803,Juarez Hidalgo,"Ks,8",32.20903931
-804,Juarez Hidalgo,"Ks,10",36.44656376
-805,Juarez Hidalgo,"Ks,12",39.61675969
-806,Juarez Hidalgo,"Ks,14",41.98805084
-807,Juarez Hidalgo,"Ks,16",43.76512406
-808,Juarez Hidalgo,"Ks,18",45.10001019
-809,Juarez Hidalgo,"Ks,20",46.10499449
-810,Juarez Hidalgo,"Ks,22",46.86311392
-811,Juarez Hidalgo,"Ks,24",47.43598787
-812,Juarez Hidalgo,"Ks,26",47.86951733
-813,Jacala,"Ks,0",8
-814,Jacala,"Ks,2",13.27820468
-815,Jacala,"Ks,4",20.78140866
-816,Jacala,"Ks,6",27.30930748
-817,Jacala,"Ks,8",32.49243801
-818,Jacala,"Ks,10",36.50455856
-819,Jacala,"Ks,12",39.57568662
-820,Jacala,"Ks,14",41.91241018
-821,Jacala,"Ks,16",43.68469221
-822,Jacala,"Ks,18",45.02692725
-823,Jacala,"Ks,20",46.04305895
-824,Jacala,"Ks,22",46.81247328
-825,Jacala,"Ks,24",47.39538615
-826,Jacala,"Ks,26",47.83731714
-827,Pacula,"Ks,0",1
-828,Pacula,"Ks,2",9.181818182
-829,Pacula,"Ks,4",18.80906442
-830,Pacula,"Ks,6",26.25326704
-831,Pacula,"Ks,8",31.91260042
-832,Pacula,"Ks,10",36.18415556
-833,Pacula,"Ks,12",39.39649123
-834,Pacula,"Ks,14",41.81009792
-835,Pacula,"Ks,16",43.62468741
-836,Pacula,"Ks,18",44.99068128
-837,Pacula,"Ks,20",46.02052777
-838,Pacula,"Ks,22",46.79811412
-839,Pacula,"Ks,24",47.38605781
-840,Pacula,"Ks,26",47.83118167
-841,Huasca,"Ks,0",5
-842,Huasca,"Ks,2",11.79360087
-843,Huasca,"Ks,4",19.51192793
-844,Huasca,"Ks,6",26.47572839
-845,Huasca,"Ks,8",32.0072011
-846,Huasca,"Ks,10",36.2315675
-847,Huasca,"Ks,12",39.42027792
-848,Huasca,"Ks,14",41.82061896
-849,Huasca,"Ks,16",43.62786085
-850,Huasca,"Ks,18",44.99008408
-851,Huasca,"Ks,20",46.0182516
-852,Huasca,"Ks,22",46.7953069
-853,Huasca,"Ks,24",47.38329713
-854,Huasca,"Ks,26",47.82872037
-855,Metztitlan,"Ks,0",7
-856,Metztitlan,"Ks,2",11.6159748
-857,Metztitlan,"Ks,4",19.46918962
-858,Metztitlan,"Ks,6",26.44137369
-859,Metztitlan,"Ks,8",31.9674348
-860,Metztitlan,"Ks,10",36.19436895
-861,Metztitlan,"Ks,12",39.38984886
-862,Metztitlan,"Ks,14",41.79728999
-863,Metztitlan,"Ks,16",43.61041853
-864,Metztitlan,"Ks,18",44.97707457
-865,Metztitlan,"Ks,20",46.00845268
-866,Metztitlan,"Ks,22",46.78781368
-867,Metztitlan,"Ks,24",47.37747463
-868,Metztitlan,"Ks,26",47.82413068
-869,Huehuetla,"Ks,0",3
-870,Huehuetla,"Ks,2",10.64067142
-871,Huehuetla,"Ks,4",19.43777419
-872,Huehuetla,"Ks,6",26.3824771
-873,Huehuetla,"Ks,8",31.82760997
-874,Huehuetla,"Ks,10",36.03526737
-875,Huehuetla,"Ks,12",39.2476984
-876,Huehuetla,"Ks,14",41.68303299
-877,Huehuetla,"Ks,16",43.52310063
-878,Huehuetla,"Ks,18",44.91190564
-879,Huehuetla,"Ks,20",45.96028438
-880,Huehuetla,"Ks,22",46.75229532
-881,Huehuetla,"Ks,24",47.35125055
-882,Huehuetla,"Ks,26",47.80471374
-883,Tenango De Doria,"Ks,0",3
-884,Tenango De Doria,"Ks,2",10.64067142
-885,Tenango De Doria,"Ks,4",19.43777419
-886,Tenango De Doria,"Ks,6",26.3824771
-887,Tenango De Doria,"Ks,8",31.82760997
-888,Tenango De Doria,"Ks,10",36.03526737
-889,Tenango De Doria,"Ks,12",39.2476984
-890,Tenango De Doria,"Ks,14",41.68303299
-891,Tenango De Doria,"Ks,16",43.52310063
-892,Tenango De Doria,"Ks,18",44.91190564
-893,Tenango De Doria,"Ks,20",45.96028438
-894,Tenango De Doria,"Ks,22",46.75229532
-895,Tenango De Doria,"Ks,24",47.35125055
-896,Tenango De Doria,"Ks,26",47.80471374
-897,Huautla,"Ks,0",6
-898,Huautla,"Ks,2",11.42371735
-899,Huautla,"Ks,4",19.96801683
-900,Huautla,"Ks,6",26.71090541
-901,Huautla,"Ks,8",32.00816851
-902,Huautla,"Ks,10",36.12679012
-903,Huautla,"Ks,12",39.29060909
-904,Huautla,"Ks,14",41.70090239
-905,Huautla,"Ks,16",43.52866796
-906,Huautla,"Ks,18",44.91176938
-907,Huautla,"Ks,20",45.95775903
-908,Huautla,"Ks,22",46.7489933
-909,Huautla,"Ks,24",47.34791988
-910,Huautla,"Ks,26",47.80167148
-911,Atlapexco,"Ks,0",5
-912,Atlapexco,"Ks,2",11.24179416
-913,Atlapexco,"Ks,4",19.59902729
-914,Atlapexco,"Ks,6",26.39962432
-915,Atlapexco,"Ks,8",31.78668781
-916,Atlapexco,"Ks,10",35.97539767
-917,Atlapexco,"Ks,12",39.18699425
-918,Atlapexco,"Ks,14",41.62891429
-919,Atlapexco,"Ks,16",43.47777158
-920,Atlapexco,"Ks,18",44.87522766
-921,Atlapexco,"Ks,20",45.93120795
-922,Atlapexco,"Ks,22",46.72953379
-923,Atlapexco,"Ks,24",47.33357267
-924,Atlapexco,"Ks,26",47.79105192
-925,Calnali,"Ks,0",6
-926,Calnali,"Ks,2",10.28437801
-927,Calnali,"Ks,4",18.38515822
-928,Calnali,"Ks,6",25.44789237
-929,Calnali,"Ks,8",31.11668463
-930,Calnali,"Ks,10",35.51177741
-931,Calnali,"Ks,12",38.86343403
-932,Calnali,"Ks,14",41.39975719
-933,Calnali,"Ks,16",43.31313671
-934,Calnali,"Ks,18",44.75553176
-935,Calnali,"Ks,20",45.84337703
-936,Calnali,"Ks,22",46.66463853
-937,Calnali,"Ks,24",47.28538121
-938,Calnali,"Ks,26",47.75513434
-939,Molango,"Ks,0",6
-940,Molango,"Ks,2",10.28437801
-941,Molango,"Ks,4",18.38515822
-942,Molango,"Ks,6",25.44789237
-943,Molango,"Ks,8",31.11668463
-944,Molango,"Ks,10",35.51177741
-945,Molango,"Ks,12",38.86343403
-946,Molango,"Ks,14",41.39975719
-947,Molango,"Ks,16",43.31313671
-948,Molango,"Ks,18",44.75553176
-949,Molango,"Ks,20",45.84337703
-950,Molango,"Ks,22",46.66463853
-951,Molango,"Ks,24",47.28538121
-952,Molango,"Ks,26",47.75513434
-953,Tlanchinol,"Ks,0",6
-954,Tlanchinol,"Ks,2",10.28437801
-955,Tlanchinol,"Ks,4",18.38515822
-956,Tlanchinol,"Ks,6",25.44789237
-957,Tlanchinol,"Ks,8",31.11668463
-958,Tlanchinol,"Ks,10",35.51177741
-959,Tlanchinol,"Ks,12",38.86343403
-960,Tlanchinol,"Ks,14",41.39975719
-961,Tlanchinol,"Ks,16",43.31313671
-962,Tlanchinol,"Ks,18",44.75553176
-963,Tlanchinol,"Ks,20",45.84337703
-964,Tlanchinol,"Ks,22",46.66463853
-965,Tlanchinol,"Ks,24",47.28538121
-966,Tlanchinol,"Ks,26",47.75513434
-967,Eloxochitlan,"Ks,0",6
-968,Eloxochitlan,"Ks,2",9.611012
-969,Eloxochitlan,"Ks,4",17.16219701
-970,Eloxochitlan,"Ks,6",24.48618239
-971,Eloxochitlan,"Ks,8",30.42911846
-972,Eloxochitlan,"Ks,10",35.0166928
-973,Eloxochitlan,"Ks,12",38.49854029
-974,Eloxochitlan,"Ks,14",41.12585417
-975,Eloxochitlan,"Ks,16",43.10535439
-976,Eloxochitlan,"Ks,18",44.59713088
-977,Eloxochitlan,"Ks,20",45.72241428
-978,Eloxochitlan,"Ks,22",46.57224836
-979,Eloxochitlan,"Ks,24",47.21484171
-980,Eloxochitlan,"Ks,26",47.7013028
-981,Chapulhuacan,"Ks,0",5
-982,Chapulhuacan,"Ks,2",10.83147424
-983,Chapulhuacan,"Ks,4",18.28445239
-984,Chapulhuacan,"Ks,6",24.97135965
-985,Chapulhuacan,"Ks,8",30.53215774
-986,Chapulhuacan,"Ks,10",34.95427205
-987,Chapulhuacan,"Ks,12",38.38373864
-988,Chapulhuacan,"Ks,14",41.0078034
-989,Chapulhuacan,"Ks,16",43.0018659
-990,Chapulhuacan,"Ks,18",44.51236314
-991,Chapulhuacan,"Ks,20",45.65523518
-992,Chapulhuacan,"Ks,22",46.51988969
-993,Chapulhuacan,"Ks,24",47.17437057
-994,Chapulhuacan,"Ks,26",47.6701372
-995,Tianguistengo,"Ks,0",5
-996,Tianguistengo,"Ks,2",8.8432144
-997,Tianguistengo,"Ks,4",16.63545104
-998,Tianguistengo,"Ks,6",23.8974798
-999,Tianguistengo,"Ks,8",29.86646831
-1000,Tianguistengo,"Ks,10",34.54181276
-1001,Tianguistengo,"Ks,12",38.12395293
-1002,Tianguistengo,"Ks,14",40.84038509
-1003,Tianguistengo,"Ks,16",42.89129511
-1004,Tianguistengo,"Ks,18",44.43761992
-1005,Tianguistengo,"Ks,20",45.60367498
-1006,Tianguistengo,"Ks,22",46.48372755
-1007,Tianguistengo,"Ks,24",47.14868251
-1008,Tianguistengo,"Ks,26",47.65172027
-1009,Tlahuiltepa,"Ks,0",5
-1010,Tlahuiltepa,"Ks,2",9.132489762
-1011,Tlahuiltepa,"Ks,4",16.61362075
-1012,Tlahuiltepa,"Ks,6",23.8628381
-1013,Tlahuiltepa,"Ks,8",29.84005967
-1014,Tlahuiltepa,"Ks,10",34.51508487
-1015,Tlahuiltepa,"Ks,12",38.09459172
-1016,Tlahuiltepa,"Ks,14",40.81026793
-1017,Tlahuiltepa,"Ks,16",42.86285151
-1018,Tlahuiltepa,"Ks,18",44.41244486
-1019,Tlahuiltepa,"Ks,20",45.58241337
-1020,Tlahuiltepa,"Ks,22",46.4663581
-1021,Tlahuiltepa,"Ks,24",47.13482232
-1022,Tlahuiltepa,"Ks,26",47.64084261
-1023,Pisaflores,"Ks,0",5
-1024,Pisaflores,"Ks,2",9.108460823
-1025,Pisaflores,"Ks,4",16.76399213
-1026,Pisaflores,"Ks,6",23.81094627
-1027,Pisaflores,"Ks,8",29.67126149
-1028,Pisaflores,"Ks,10",34.31816319
-1029,Pisaflores,"Ks,12",37.91274629
-1030,Pisaflores,"Ks,14",40.65785848
-1031,Pisaflores,"Ks,16",42.74095021
-1032,Pisaflores,"Ks,18",44.31721806
-1033,Pisaflores,"Ks,20",45.50889035
-1034,Pisaflores,"Ks,22",46.40989478
-1035,Pisaflores,"Ks,24",47.09154207
-1036,Pisaflores,"Ks,26",47.6076684
-1037,Lolotla,"Ks,0",4
-1038,Lolotla,"Ks,2",8.758563455
-1039,Lolotla,"Ks,4",16.0920477
-1040,Lolotla,"Ks,6",23.30853299
-1041,Lolotla,"Ks,8",29.35493529
-1042,Lolotla,"Ks,10",34.13122706
-1043,Lolotla,"Ks,12",37.80581836
-1044,Lolotla,"Ks,14",40.59795688
-1045,Lolotla,"Ks,16",42.70794704
-1046,Lolotla,"Ks,18",44.29935458
-1047,Lolotla,"Ks,20",45.49946179
-1048,Lolotla,"Ks,22",46.40513091
-1049,Lolotla,"Ks,24",47.08933868
-1050,Lolotla,"Ks,26",47.60685491
-1051,Xochicoatlan,"Ks,0",6
-1052,Xochicoatlan,"Ks,2",8.286012
-1053,Xochicoatlan,"Ks,4",15.22894777
-1054,Xochicoatlan,"Ks,6",22.39305585
-1055,Xochicoatlan,"Ks,8",28.55656272
-1056,Xochicoatlan,"Ks,10",33.48833713
-1057,Xochicoatlan,"Ks,12",37.30641999
-1058,Xochicoatlan,"Ks,14",40.21655638
-1059,Xochicoatlan,"Ks,16",42.4189463
-1060,Xochicoatlan,"Ks,18",44.08107863
-1061,Xochicoatlan,"Ks,20",45.33474888
-1062,Xochicoatlan,"Ks,22",46.28080145
-1063,Xochicoatlan,"Ks,24",46.99541379
-1064,Xochicoatlan,"Ks,26",47.53582512
-1065,Huazalingo,"Ks,0",3
-1066,Huazalingo,"Ks,2",6.839591568
-1067,Huazalingo,"Ks,4",14.66250774
-1068,Huazalingo,"Ks,6",21.99591012
-1069,Huazalingo,"Ks,8",28.20594135
-1070,Huazalingo,"Ks,10",33.18450936
-1071,Huazalingo,"Ks,12",37.05532561
-1072,Huazalingo,"Ks,14",40.01595694
-1073,Huazalingo,"Ks,16",42.26193027
-1074,Huazalingo,"Ks,18",43.95958344
-1075,Huazalingo,"Ks,20",45.24130641
-1076,Huazalingo,"Ks,22",46.2091367
-1077,Huazalingo,"Ks,24",46.94050224
-1078,Huazalingo,"Ks,26",47.49374368
-1079,Xochiatipan,"Ks,0",3
-1080,Xochiatipan,"Ks,2",6.839591568
-1081,Xochiatipan,"Ks,4",14.66250774
-1082,Xochiatipan,"Ks,6",21.99591012
-1083,Xochiatipan,"Ks,8",28.20594135
-1084,Xochiatipan,"Ks,10",33.18450936
-1085,Xochiatipan,"Ks,12",37.05532561
-1086,Xochiatipan,"Ks,14",40.01595694
-1087,Xochiatipan,"Ks,16",42.26193027
-1088,Xochiatipan,"Ks,18",43.95958344
-1089,Xochiatipan,"Ks,20",45.24130641
-1090,Xochiatipan,"Ks,22",46.2091367
-1091,Xochiatipan,"Ks,24",46.94050224
-1092,Xochiatipan,"Ks,26",47.49374368
-1093,La Mision,"Ks,0",3
-1094,La Mision,"Ks,2",7.544751273
-1095,La Mision,"Ks,4",14.56118066
-1096,La Mision,"Ks,6",21.81601258
-1097,La Mision,"Ks,8",28.07037911
-1098,La Mision,"Ks,10",33.09375813
-1099,La Mision,"Ks,12",36.99531289
-1100,La Mision,"Ks,14",39.97565873
-1101,La Mision,"Ks,16",42.23431009
-1102,La Mision,"Ks,18",43.94030774
-1103,La Mision,"Ks,20",45.22767124
-1104,La Mision,"Ks,22",46.19940445
-1105,La Mision,"Ks,24",46.93351967
-1106,La Mision,"Ks,26",47.4887231
-1107,Tepehuacan,"Ks,0",5
-1108,Tepehuacan,"Ks,2",8.106850764
-1109,Tepehuacan,"Ks,4",14.51292444
-1110,Tepehuacan,"Ks,6",21.62101361
-1111,Tepehuacan,"Ks,8",27.88535518
-1112,Tepehuacan,"Ks,10",32.94917344
-1113,Tepehuacan,"Ks,12",36.88840574
-1114,Tepehuacan,"Ks,14",39.89784807
-1115,Tepehuacan,"Ks,16",42.17779808
-1116,Tepehuacan,"Ks,18",43.8991581
-1117,Tepehuacan,"Ks,20",45.1975931
-1118,Tepehuacan,"Ks,22",46.17733892
-1119,Tepehuacan,"Ks,24",46.91728498
-1120,Tepehuacan,"Ks,26",47.47675381
-1121,SBT,"Ks,0",2
-1122,SBT,"Ks,2",7.525
-1123,SBT,"Ks,4",13.77007781
-1124,SBT,"Ks,6",20.78486886
-1125,SBT,"Ks,8",27.08002766
-1126,SBT,"Ks,10",32.24184397
-1127,SBT,"Ks,12",36.29911115
-1128,SBT,"Ks,14",39.42216379
-1129,SBT,"Ks,16",41.80133451
-1130,SBT,"Ks,18",43.60497917
-1131,SBT,"Ks,20",44.96959901
-1132,SBT,"Ks,22",46.00157252
-1133,SBT,"Ks,24",46.78222992
-1134,SBT,"Ks,26",47.37318231
-1135,Zimapan,"Ks,0",7
-1136,Zimapan,"Ks,2",10.72698413
-1137,Zimapan,"Ks,4",16.25504376
-1138,Zimapan,"Ks,6",22.29668604
-1139,Zimapan,"Ks,8",27.88634093
-1140,Zimapan,"Ks,10",32.62323867
-1141,Zimapan,"Ks,12",36.44877704
-1142,Zimapan,"Ks,14",39.45532865
-1143,Zimapan,"Ks,16",41.7815771
-1144,Zimapan,"Ks,18",43.5653474
-1145,Zimapan,"Ks,20",44.92618713
-1146,Zimapan,"Ks,22",45.96148374
-1147,Zimapan,"Ks,24",46.74801369
-1148,Zimapan,"Ks,26",47.3452178
-1149,Mineral Del Chico,"Ks,0",2
-1150,Mineral Del Chico,"Ks,2",4.766666667
-1151,Mineral Del Chico,"Ks,4",8.732704983
-1152,Mineral Del Chico,"Ks,6",14.29987539
-1153,Mineral Del Chico,"Ks,8",20.33529628
-1154,Mineral Del Chico,"Ks,10",26.00549173
-1155,Mineral Del Chico,"Ks,12",30.92120341
-1156,Mineral Del Chico,"Ks,14",34.98300362
-1157,Mineral Del Chico,"Ks,16",38.23980959
-1158,Mineral Del Chico,"Ks,18",40.8010293
-1159,Mineral Del Chico,"Ks,20",42.78983729
-1160,Mineral Del Chico,"Ks,22",44.32135383
-1161,Mineral Del Chico,"Ks,24",45.49434136
-1162,Mineral Del Chico,"Ks,26",46.38962381
+"","MUNICIPIO","iteracion","ranking"
+"1","Tepeji Del Rio De Ocampo","Ks,0",3
+"2","Tepeji Del Rio De Ocampo","Ks,2",3
+"3","Tepeji Del Rio De Ocampo","Ks,4",2
+"4","Tepeji Del Rio De Ocampo","Ks,6",1
+"5","Tepeji Del Rio De Ocampo","Ks,8",1
+"6","Tepeji Del Rio De Ocampo","Ks,10",1
+"7","Tepeji Del Rio De Ocampo","Ks,12",1
+"8","Tepeji Del Rio De Ocampo","Ks,14",1
+"9","Tepeji Del Rio De Ocampo","Ks,16",1
+"10","Tepeji Del Rio De Ocampo","Ks,18",1
+"11","Tepeji Del Rio De Ocampo","Ks,20",1
+"12","Tepeji Del Rio De Ocampo","Ks,22",1
+"13","Tepeji Del Rio De Ocampo","Ks,24",1
+"14","Tepeji Del Rio De Ocampo","Ks,26",1
+"15","Atitalaquia","Ks,0",5
+"16","Atitalaquia","Ks,2",5
+"17","Atitalaquia","Ks,4",5
+"18","Atitalaquia","Ks,6",4
+"19","Atitalaquia","Ks,8",3
+"20","Atitalaquia","Ks,10",2
+"21","Atitalaquia","Ks,12",2
+"22","Atitalaquia","Ks,14",2
+"23","Atitalaquia","Ks,16",2
+"24","Atitalaquia","Ks,18",2
+"25","Atitalaquia","Ks,20",2
+"26","Atitalaquia","Ks,22",2
+"27","Atitalaquia","Ks,24",2
+"28","Atitalaquia","Ks,26",2
+"29","Tepeapulco","Ks,0",7
+"30","Tepeapulco","Ks,2",8
+"31","Tepeapulco","Ks,4",11
+"32","Tepeapulco","Ks,6",11
+"33","Tepeapulco","Ks,8",8
+"34","Tepeapulco","Ks,10",7
+"35","Tepeapulco","Ks,12",6
+"36","Tepeapulco","Ks,14",6
+"37","Tepeapulco","Ks,16",6
+"38","Tepeapulco","Ks,18",6
+"39","Tepeapulco","Ks,20",5
+"40","Tepeapulco","Ks,22",5
+"41","Tepeapulco","Ks,24",3
+"42","Tepeapulco","Ks,26",3
+"43","Tizayuca","Ks,0",2
+"44","Tizayuca","Ks,2",1
+"45","Tizayuca","Ks,4",1
+"46","Tizayuca","Ks,6",2
+"47","Tizayuca","Ks,8",2
+"48","Tizayuca","Ks,10",3
+"49","Tizayuca","Ks,12",3
+"50","Tizayuca","Ks,14",3
+"51","Tizayuca","Ks,16",3
+"52","Tizayuca","Ks,18",3
+"53","Tizayuca","Ks,20",3
+"54","Tizayuca","Ks,22",3
+"55","Tizayuca","Ks,24",4
+"56","Tizayuca","Ks,26",4
+"57","Mineral De La Reforma","Ks,0",4
+"58","Mineral De La Reforma","Ks,2",4
+"59","Mineral De La Reforma","Ks,4",4
+"60","Mineral De La Reforma","Ks,6",5
+"61","Mineral De La Reforma","Ks,8",4
+"62","Mineral De La Reforma","Ks,10",4
+"63","Mineral De La Reforma","Ks,12",4
+"64","Mineral De La Reforma","Ks,14",4
+"65","Mineral De La Reforma","Ks,16",4
+"66","Mineral De La Reforma","Ks,18",4
+"67","Mineral De La Reforma","Ks,20",4
+"68","Mineral De La Reforma","Ks,22",4
+"69","Mineral De La Reforma","Ks,24",5
+"70","Mineral De La Reforma","Ks,26",5
+"71","Pachuca","Ks,0",1
+"72","Pachuca","Ks,2",2
+"73","Pachuca","Ks,4",3
+"74","Pachuca","Ks,6",3
+"75","Pachuca","Ks,8",5
+"76","Pachuca","Ks,10",5
+"77","Pachuca","Ks,12",5
+"78","Pachuca","Ks,14",5
+"79","Pachuca","Ks,16",5
+"80","Pachuca","Ks,18",5
+"81","Pachuca","Ks,20",6
+"82","Pachuca","Ks,22",6
+"83","Pachuca","Ks,24",6
+"84","Pachuca","Ks,26",6
+"85","Tula De Allende","Ks,0",9
+"86","Tula De Allende","Ks,2",6
+"87","Tula De Allende","Ks,4",6
+"88","Tula De Allende","Ks,6",6
+"89","Tula De Allende","Ks,8",6
+"90","Tula De Allende","Ks,10",6
+"91","Tula De Allende","Ks,12",7
+"92","Tula De Allende","Ks,14",7
+"93","Tula De Allende","Ks,16",7
+"94","Tula De Allende","Ks,18",7
+"95","Tula De Allende","Ks,20",7
+"96","Tula De Allende","Ks,22",7
+"97","Tula De Allende","Ks,24",7
+"98","Tula De Allende","Ks,26",7
+"99","Atotonilco De Tula","Ks,0",8
+"100","Atotonilco De Tula","Ks,2",7
+"101","Atotonilco De Tula","Ks,4",8
+"102","Atotonilco De Tula","Ks,6",8
+"103","Atotonilco De Tula","Ks,8",9
+"104","Atotonilco De Tula","Ks,10",8
+"105","Atotonilco De Tula","Ks,12",9
+"106","Atotonilco De Tula","Ks,14",9
+"107","Atotonilco De Tula","Ks,16",9
+"108","Atotonilco De Tula","Ks,18",9
+"109","Atotonilco De Tula","Ks,20",9
+"110","Atotonilco De Tula","Ks,22",8
+"111","Atotonilco De Tula","Ks,24",8
+"112","Atotonilco De Tula","Ks,26",8
+"113","Tolcayuca","Ks,0",19
+"114","Tolcayuca","Ks,2",14
+"115","Tolcayuca","Ks,4",13
+"116","Tolcayuca","Ks,6",12
+"117","Tolcayuca","Ks,8",12
+"118","Tolcayuca","Ks,10",9
+"119","Tolcayuca","Ks,12",8
+"120","Tolcayuca","Ks,14",8
+"121","Tolcayuca","Ks,16",8
+"122","Tolcayuca","Ks,18",8
+"123","Tolcayuca","Ks,20",8
+"124","Tolcayuca","Ks,22",9
+"125","Tolcayuca","Ks,24",9
+"126","Tolcayuca","Ks,26",9
+"127","Tlahuelilpan","Ks,0",43
+"128","Tlahuelilpan","Ks,2",10
+"129","Tlahuelilpan","Ks,4",7
+"130","Tlahuelilpan","Ks,6",7
+"131","Tlahuelilpan","Ks,8",7
+"132","Tlahuelilpan","Ks,10",10
+"133","Tlahuelilpan","Ks,12",10
+"134","Tlahuelilpan","Ks,14",10
+"135","Tlahuelilpan","Ks,16",10
+"136","Tlahuelilpan","Ks,18",10
+"137","Tlahuelilpan","Ks,20",10
+"138","Tlahuelilpan","Ks,22",10
+"139","Tlahuelilpan","Ks,24",10
+"140","Tlahuelilpan","Ks,26",10
+"141","Lugo Guerrero","Ks,0",12
+"142","Lugo Guerrero","Ks,2",13
+"143","Lugo Guerrero","Ks,4",10
+"144","Lugo Guerrero","Ks,6",10
+"145","Lugo Guerrero","Ks,8",11
+"146","Lugo Guerrero","Ks,10",11
+"147","Lugo Guerrero","Ks,12",11
+"148","Lugo Guerrero","Ks,14",11
+"149","Lugo Guerrero","Ks,16",11
+"150","Lugo Guerrero","Ks,18",11
+"151","Lugo Guerrero","Ks,20",11
+"152","Lugo Guerrero","Ks,22",11
+"153","Lugo Guerrero","Ks,24",11
+"154","Lugo Guerrero","Ks,26",11
+"155","Nopala","Ks,0",59
+"156","Nopala","Ks,2",11
+"157","Nopala","Ks,4",9
+"158","Nopala","Ks,6",9
+"159","Nopala","Ks,8",10
+"160","Nopala","Ks,10",12
+"161","Nopala","Ks,12",12
+"162","Nopala","Ks,14",12
+"163","Nopala","Ks,16",12
+"164","Nopala","Ks,18",12
+"165","Nopala","Ks,20",12
+"166","Nopala","Ks,22",12
+"167","Nopala","Ks,24",12
+"168","Nopala","Ks,26",12
+"169","Tulancingo De Bravo","Ks,0",6
+"170","Tulancingo De Bravo","Ks,2",9
+"171","Tulancingo De Bravo","Ks,4",12
+"172","Tulancingo De Bravo","Ks,6",13
+"173","Tulancingo De Bravo","Ks,8",13
+"174","Tulancingo De Bravo","Ks,10",13
+"175","Tulancingo De Bravo","Ks,12",13
+"176","Tulancingo De Bravo","Ks,14",13
+"177","Tulancingo De Bravo","Ks,16",13
+"178","Tulancingo De Bravo","Ks,18",13
+"179","Tulancingo De Bravo","Ks,20",13
+"180","Tulancingo De Bravo","Ks,22",13
+"181","Tulancingo De Bravo","Ks,24",13
+"182","Tulancingo De Bravo","Ks,26",13
+"183","Singuilucan","Ks,0",26
+"184","Singuilucan","Ks,2",24
+"185","Singuilucan","Ks,4",19
+"186","Singuilucan","Ks,6",17
+"187","Singuilucan","Ks,8",15
+"188","Singuilucan","Ks,10",14
+"189","Singuilucan","Ks,12",14
+"190","Singuilucan","Ks,14",14
+"191","Singuilucan","Ks,16",14
+"192","Singuilucan","Ks,18",14
+"193","Singuilucan","Ks,20",14
+"194","Singuilucan","Ks,22",14
+"195","Singuilucan","Ks,24",14
+"196","Singuilucan","Ks,26",14
+"197","Huejutla","Ks,0",10
+"198","Huejutla","Ks,2",12
+"199","Huejutla","Ks,4",14
+"200","Huejutla","Ks,6",14
+"201","Huejutla","Ks,8",14
+"202","Huejutla","Ks,10",15
+"203","Huejutla","Ks,12",15
+"204","Huejutla","Ks,14",15
+"205","Huejutla","Ks,16",15
+"206","Huejutla","Ks,18",15
+"207","Huejutla","Ks,20",15
+"208","Huejutla","Ks,22",15
+"209","Huejutla","Ks,24",15
+"210","Huejutla","Ks,26",15
+"211","Apan","Ks,0",16
+"212","Apan","Ks,2",15
+"213","Apan","Ks,4",15
+"214","Apan","Ks,6",16
+"215","Apan","Ks,8",17
+"216","Apan","Ks,10",16
+"217","Apan","Ks,12",16
+"218","Apan","Ks,14",16
+"219","Apan","Ks,16",16
+"220","Apan","Ks,18",16
+"221","Apan","Ks,20",16
+"222","Apan","Ks,22",16
+"223","Apan","Ks,24",16
+"224","Apan","Ks,26",16
+"225","Acatlan","Ks,0",22
+"226","Acatlan","Ks,2",21
+"227","Acatlan","Ks,4",20
+"228","Acatlan","Ks,6",19
+"229","Acatlan","Ks,8",19
+"230","Acatlan","Ks,10",19
+"231","Acatlan","Ks,12",18
+"232","Acatlan","Ks,14",18
+"233","Acatlan","Ks,16",18
+"234","Acatlan","Ks,18",18
+"235","Acatlan","Ks,20",17
+"236","Acatlan","Ks,22",17
+"237","Acatlan","Ks,24",17
+"238","Acatlan","Ks,26",17
+"239","Emiliano Zapata","Ks,0",39
+"240","Emiliano Zapata","Ks,2",22
+"241","Emiliano Zapata","Ks,4",16
+"242","Emiliano Zapata","Ks,6",15
+"243","Emiliano Zapata","Ks,8",16
+"244","Emiliano Zapata","Ks,10",17
+"245","Emiliano Zapata","Ks,12",17
+"246","Emiliano Zapata","Ks,14",17
+"247","Emiliano Zapata","Ks,16",17
+"248","Emiliano Zapata","Ks,18",17
+"249","Emiliano Zapata","Ks,20",18
+"250","Emiliano Zapata","Ks,22",18
+"251","Emiliano Zapata","Ks,24",18
+"252","Emiliano Zapata","Ks,26",18
+"253","Metepec","Ks,0",20
+"254","Metepec","Ks,2",18
+"255","Metepec","Ks,4",17
+"256","Metepec","Ks,6",18
+"257","Metepec","Ks,8",18
+"258","Metepec","Ks,10",18
+"259","Metepec","Ks,12",19
+"260","Metepec","Ks,14",19
+"261","Metepec","Ks,16",19
+"262","Metepec","Ks,18",19
+"263","Metepec","Ks,20",19
+"264","Metepec","Ks,22",19
+"265","Metepec","Ks,24",19
+"266","Metepec","Ks,26",19
+"267","Alfajayucan","Ks,0",31
+"268","Alfajayucan","Ks,2",16
+"269","Alfajayucan","Ks,4",18
+"270","Alfajayucan","Ks,6",20
+"271","Alfajayucan","Ks,8",20
+"272","Alfajayucan","Ks,10",21
+"273","Alfajayucan","Ks,12",21
+"274","Alfajayucan","Ks,14",21
+"275","Alfajayucan","Ks,16",21
+"276","Alfajayucan","Ks,18",21
+"277","Alfajayucan","Ks,20",21
+"278","Alfajayucan","Ks,22",20
+"279","Alfajayucan","Ks,24",20
+"280","Alfajayucan","Ks,26",20
+"281","Actopan","Ks,0",11
+"282","Actopan","Ks,2",17
+"283","Actopan","Ks,4",22
+"284","Actopan","Ks,6",21
+"285","Actopan","Ks,8",21
+"286","Actopan","Ks,10",20
+"287","Actopan","Ks,12",20
+"288","Actopan","Ks,14",20
+"289","Actopan","Ks,16",20
+"290","Actopan","Ks,18",20
+"291","Actopan","Ks,20",20
+"292","Actopan","Ks,22",21
+"293","Actopan","Ks,24",21
+"294","Actopan","Ks,26",21
+"295","Acaxochitlan","Ks,0",24
+"296","Acaxochitlan","Ks,2",27
+"297","Acaxochitlan","Ks,4",26
+"298","Acaxochitlan","Ks,6",25
+"299","Acaxochitlan","Ks,8",24
+"300","Acaxochitlan","Ks,10",22
+"301","Acaxochitlan","Ks,12",22
+"302","Acaxochitlan","Ks,14",22
+"303","Acaxochitlan","Ks,16",22
+"304","Acaxochitlan","Ks,18",22
+"305","Acaxochitlan","Ks,20",22
+"306","Acaxochitlan","Ks,22",22
+"307","Acaxochitlan","Ks,24",22
+"308","Acaxochitlan","Ks,26",22
+"309","Chapantongo","Ks,0",72
+"310","Chapantongo","Ks,2",20
+"311","Chapantongo","Ks,4",23
+"312","Chapantongo","Ks,6",23
+"313","Chapantongo","Ks,8",25
+"314","Chapantongo","Ks,10",25
+"315","Chapantongo","Ks,12",24
+"316","Chapantongo","Ks,14",24
+"317","Chapantongo","Ks,16",25
+"318","Chapantongo","Ks,18",25
+"319","Chapantongo","Ks,20",25
+"320","Chapantongo","Ks,22",24
+"321","Chapantongo","Ks,24",23
+"322","Chapantongo","Ks,26",23
+"323","Cuautepec","Ks,0",15
+"324","Cuautepec","Ks,2",29
+"325","Cuautepec","Ks,4",29
+"326","Cuautepec","Ks,6",28
+"327","Cuautepec","Ks,8",27
+"328","Cuautepec","Ks,10",26
+"329","Cuautepec","Ks,12",26
+"330","Cuautepec","Ks,14",25
+"331","Cuautepec","Ks,16",24
+"332","Cuautepec","Ks,18",24
+"333","Cuautepec","Ks,20",24
+"334","Cuautepec","Ks,22",23
+"335","Cuautepec","Ks,24",24
+"336","Cuautepec","Ks,26",24
+"337","Huichapan","Ks,0",13
+"338","Huichapan","Ks,2",25
+"339","Huichapan","Ks,4",25
+"340","Huichapan","Ks,6",24
+"341","Huichapan","Ks,8",23
+"342","Huichapan","Ks,10",23
+"343","Huichapan","Ks,12",23
+"344","Huichapan","Ks,14",23
+"345","Huichapan","Ks,16",23
+"346","Huichapan","Ks,18",23
+"347","Huichapan","Ks,20",23
+"348","Huichapan","Ks,22",25
+"349","Huichapan","Ks,24",25
+"350","Huichapan","Ks,26",25
+"351","Mixquiahuala","Ks,0",14
+"352","Mixquiahuala","Ks,2",26
+"353","Mixquiahuala","Ks,4",27
+"354","Mixquiahuala","Ks,6",27
+"355","Mixquiahuala","Ks,8",26
+"356","Mixquiahuala","Ks,10",27
+"357","Mixquiahuala","Ks,12",27
+"358","Mixquiahuala","Ks,14",27
+"359","Mixquiahuala","Ks,16",27
+"360","Mixquiahuala","Ks,18",26
+"361","Mixquiahuala","Ks,20",26
+"362","Mixquiahuala","Ks,22",26
+"363","Mixquiahuala","Ks,24",26
+"364","Mixquiahuala","Ks,26",26
+"365","Tlanalapa","Ks,0",44
+"366","Tlanalapa","Ks,2",19
+"367","Tlanalapa","Ks,4",21
+"368","Tlanalapa","Ks,6",22
+"369","Tlanalapa","Ks,8",22
+"370","Tlanalapa","Ks,10",24
+"371","Tlanalapa","Ks,12",25
+"372","Tlanalapa","Ks,14",26
+"373","Tlanalapa","Ks,16",26
+"374","Tlanalapa","Ks,18",27
+"375","Tlanalapa","Ks,20",27
+"376","Tlanalapa","Ks,22",27
+"377","Tlanalapa","Ks,24",27
+"378","Tlanalapa","Ks,26",27
+"379","Villa De Tezontepec","Ks,0",42
+"380","Villa De Tezontepec","Ks,2",23
+"381","Villa De Tezontepec","Ks,4",24
+"382","Villa De Tezontepec","Ks,6",26
+"383","Villa De Tezontepec","Ks,8",28
+"384","Villa De Tezontepec","Ks,10",28
+"385","Villa De Tezontepec","Ks,12",28
+"386","Villa De Tezontepec","Ks,14",28
+"387","Villa De Tezontepec","Ks,16",28
+"388","Villa De Tezontepec","Ks,18",28
+"389","Villa De Tezontepec","Ks,20",28
+"390","Villa De Tezontepec","Ks,22",28
+"391","Villa De Tezontepec","Ks,24",28
+"392","Villa De Tezontepec","Ks,26",28
+"393","San Agustin Tlaxiaca","Ks,0",37
+"394","San Agustin Tlaxiaca","Ks,2",28
+"395","San Agustin Tlaxiaca","Ks,4",28
+"396","San Agustin Tlaxiaca","Ks,6",29
+"397","San Agustin Tlaxiaca","Ks,8",29
+"398","San Agustin Tlaxiaca","Ks,10",29
+"399","San Agustin Tlaxiaca","Ks,12",29
+"400","San Agustin Tlaxiaca","Ks,14",29
+"401","San Agustin Tlaxiaca","Ks,16",29
+"402","San Agustin Tlaxiaca","Ks,18",29
+"403","San Agustin Tlaxiaca","Ks,20",29
+"404","San Agustin Tlaxiaca","Ks,22",29
+"405","San Agustin Tlaxiaca","Ks,24",29
+"406","San Agustin Tlaxiaca","Ks,26",29
+"407","Zapotlan","Ks,0",38
+"408","Zapotlan","Ks,2",37
+"409","Zapotlan","Ks,4",33
+"410","Zapotlan","Ks,6",31
+"411","Zapotlan","Ks,8",31
+"412","Zapotlan","Ks,10",31
+"413","Zapotlan","Ks,12",31
+"414","Zapotlan","Ks,14",31
+"415","Zapotlan","Ks,16",31
+"416","Zapotlan","Ks,18",30
+"417","Zapotlan","Ks,20",30
+"418","Zapotlan","Ks,22",30
+"419","Zapotlan","Ks,24",30
+"420","Zapotlan","Ks,26",30
+"421","Epazoyucan","Ks,0",67
+"422","Epazoyucan","Ks,2",33
+"423","Epazoyucan","Ks,4",30
+"424","Epazoyucan","Ks,6",30
+"425","Epazoyucan","Ks,8",30
+"426","Epazoyucan","Ks,10",30
+"427","Epazoyucan","Ks,12",30
+"428","Epazoyucan","Ks,14",30
+"429","Epazoyucan","Ks,16",30
+"430","Epazoyucan","Ks,18",31
+"431","Epazoyucan","Ks,20",31
+"432","Epazoyucan","Ks,22",31
+"433","Epazoyucan","Ks,24",31
+"434","Epazoyucan","Ks,26",31
+"435","San Salvador","Ks,0",25
+"436","San Salvador","Ks,2",34
+"437","San Salvador","Ks,4",36
+"438","San Salvador","Ks,6",35
+"439","San Salvador","Ks,8",35
+"440","San Salvador","Ks,10",35
+"441","San Salvador","Ks,12",35
+"442","San Salvador","Ks,14",34
+"443","San Salvador","Ks,16",33
+"444","San Salvador","Ks,18",33
+"445","San Salvador","Ks,20",32
+"446","San Salvador","Ks,22",32
+"447","San Salvador","Ks,24",32
+"448","San Salvador","Ks,26",32
+"449","Cardonal","Ks,0",56
+"450","Cardonal","Ks,2",35
+"451","Cardonal","Ks,4",35
+"452","Cardonal","Ks,6",34
+"453","Cardonal","Ks,8",34
+"454","Cardonal","Ks,10",34
+"455","Cardonal","Ks,12",34
+"456","Cardonal","Ks,14",35
+"457","Cardonal","Ks,16",35
+"458","Cardonal","Ks,18",34
+"459","Cardonal","Ks,20",34
+"460","Cardonal","Ks,22",34
+"461","Cardonal","Ks,24",33
+"462","Cardonal","Ks,26",33
+"463","Zempoala","Ks,0",21
+"464","Zempoala","Ks,2",32
+"465","Zempoala","Ks,4",32
+"466","Zempoala","Ks,6",33
+"467","Zempoala","Ks,8",32
+"468","Zempoala","Ks,10",32
+"469","Zempoala","Ks,12",32
+"470","Zempoala","Ks,14",32
+"471","Zempoala","Ks,16",32
+"472","Zempoala","Ks,18",32
+"473","Zempoala","Ks,20",33
+"474","Zempoala","Ks,22",33
+"475","Zempoala","Ks,24",34
+"476","Zempoala","Ks,26",34
+"477","Progreso","Ks,0",23
+"478","Progreso","Ks,2",30
+"479","Progreso","Ks,4",31
+"480","Progreso","Ks,6",32
+"481","Progreso","Ks,8",33
+"482","Progreso","Ks,10",33
+"483","Progreso","Ks,12",33
+"484","Progreso","Ks,14",33
+"485","Progreso","Ks,16",34
+"486","Progreso","Ks,18",35
+"487","Progreso","Ks,20",35
+"488","Progreso","Ks,22",35
+"489","Progreso","Ks,24",35
+"490","Progreso","Ks,26",35
+"491","Zacualtipan","Ks,0",54
+"492","Zacualtipan","Ks,2",31
+"493","Zacualtipan","Ks,4",34
+"494","Zacualtipan","Ks,6",36
+"495","Zacualtipan","Ks,8",36
+"496","Zacualtipan","Ks,10",36
+"497","Zacualtipan","Ks,12",36
+"498","Zacualtipan","Ks,14",36
+"499","Zacualtipan","Ks,16",36
+"500","Zacualtipan","Ks,18",36
+"501","Zacualtipan","Ks,20",36
+"502","Zacualtipan","Ks,22",36
+"503","Zacualtipan","Ks,24",36
+"504","Zacualtipan","Ks,26",36
+"505","Tezontepec De Aldama","Ks,0",27
+"506","Tezontepec De Aldama","Ks,2",48
+"507","Tezontepec De Aldama","Ks,4",43
+"508","Tezontepec De Aldama","Ks,6",40
+"509","Tezontepec De Aldama","Ks,8",40
+"510","Tezontepec De Aldama","Ks,10",39
+"511","Tezontepec De Aldama","Ks,12",39
+"512","Tezontepec De Aldama","Ks,14",38
+"513","Tezontepec De Aldama","Ks,16",38
+"514","Tezontepec De Aldama","Ks,18",37
+"515","Tezontepec De Aldama","Ks,20",37
+"516","Tezontepec De Aldama","Ks,22",37
+"517","Tezontepec De Aldama","Ks,24",37
+"518","Tezontepec De Aldama","Ks,26",37
+"519","Tlaxcoapan","Ks,0",29
+"520","Tlaxcoapan","Ks,2",38
+"521","Tlaxcoapan","Ks,4",37
+"522","Tlaxcoapan","Ks,6",38
+"523","Tlaxcoapan","Ks,8",38
+"524","Tlaxcoapan","Ks,10",37
+"525","Tlaxcoapan","Ks,12",37
+"526","Tlaxcoapan","Ks,14",37
+"527","Tlaxcoapan","Ks,16",37
+"528","Tlaxcoapan","Ks,18",38
+"529","Tlaxcoapan","Ks,20",38
+"530","Tlaxcoapan","Ks,22",38
+"531","Tlaxcoapan","Ks,24",38
+"532","Tlaxcoapan","Ks,26",38
+"533","Mineral Del Monte","Ks,0",82
+"534","Mineral Del Monte","Ks,2",43
+"535","Mineral Del Monte","Ks,4",39
+"536","Mineral Del Monte","Ks,6",37
+"537","Mineral Del Monte","Ks,8",37
+"538","Mineral Del Monte","Ks,10",38
+"539","Mineral Del Monte","Ks,12",38
+"540","Mineral Del Monte","Ks,14",39
+"541","Mineral Del Monte","Ks,16",39
+"542","Mineral Del Monte","Ks,18",39
+"543","Mineral Del Monte","Ks,20",39
+"544","Mineral Del Monte","Ks,22",39
+"545","Mineral Del Monte","Ks,24",39
+"546","Mineral Del Monte","Ks,26",39
+"547","Almoloya","Ks,0",32
+"548","Almoloya","Ks,2",36
+"549","Almoloya","Ks,4",38
+"550","Almoloya","Ks,6",39
+"551","Almoloya","Ks,8",39
+"552","Almoloya","Ks,10",40
+"553","Almoloya","Ks,12",40
+"554","Almoloya","Ks,14",40
+"555","Almoloya","Ks,16",40
+"556","Almoloya","Ks,18",40
+"557","Almoloya","Ks,20",40
+"558","Almoloya","Ks,22",40
+"559","Almoloya","Ks,24",40
+"560","Almoloya","Ks,26",40
+"561","Ixmiquilpan","Ks,0",17
+"562","Ixmiquilpan","Ks,2",39
+"563","Ixmiquilpan","Ks,4",41
+"564","Ixmiquilpan","Ks,6",41
+"565","Ixmiquilpan","Ks,8",41
+"566","Ixmiquilpan","Ks,10",41
+"567","Ixmiquilpan","Ks,12",41
+"568","Ixmiquilpan","Ks,14",41
+"569","Ixmiquilpan","Ks,16",41
+"570","Ixmiquilpan","Ks,18",41
+"571","Ixmiquilpan","Ks,20",41
+"572","Ixmiquilpan","Ks,22",41
+"573","Ixmiquilpan","Ks,24",41
+"574","Ixmiquilpan","Ks,26",41
+"575","Tasquillo","Ks,0",62
+"576","Tasquillo","Ks,2",45
+"577","Tasquillo","Ks,4",42
+"578","Tasquillo","Ks,6",42
+"579","Tasquillo","Ks,8",42
+"580","Tasquillo","Ks,10",42
+"581","Tasquillo","Ks,12",42
+"582","Tasquillo","Ks,14",42
+"583","Tasquillo","Ks,16",42
+"584","Tasquillo","Ks,18",42
+"585","Tasquillo","Ks,20",42
+"586","Tasquillo","Ks,22",42
+"587","Tasquillo","Ks,24",42
+"588","Tasquillo","Ks,26",42
+"589","Ajacuba","Ks,0",30
+"590","Ajacuba","Ks,2",47
+"591","Ajacuba","Ks,4",44
+"592","Ajacuba","Ks,6",44
+"593","Ajacuba","Ks,8",43
+"594","Ajacuba","Ks,10",43
+"595","Ajacuba","Ks,12",43
+"596","Ajacuba","Ks,14",43
+"597","Ajacuba","Ks,16",43
+"598","Ajacuba","Ks,18",43
+"599","Ajacuba","Ks,20",43
+"600","Ajacuba","Ks,22",43
+"601","Ajacuba","Ks,24",43
+"602","Ajacuba","Ks,26",43
+"603","Francisco I.Madero","Ks,0",34
+"604","Francisco I.Madero","Ks,2",49
+"605","Francisco I.Madero","Ks,4",46
+"606","Francisco I.Madero","Ks,6",45
+"607","Francisco I.Madero","Ks,8",45
+"608","Francisco I.Madero","Ks,10",45
+"609","Francisco I.Madero","Ks,12",44
+"610","Francisco I.Madero","Ks,14",44
+"611","Francisco I.Madero","Ks,16",44
+"612","Francisco I.Madero","Ks,18",44
+"613","Francisco I.Madero","Ks,20",44
+"614","Francisco I.Madero","Ks,22",44
+"615","Francisco I.Madero","Ks,24",44
+"616","Francisco I.Madero","Ks,26",44
+"617","Tecozautla","Ks,0",18
+"618","Tecozautla","Ks,2",41
+"619","Tecozautla","Ks,4",40
+"620","Tecozautla","Ks,6",43
+"621","Tecozautla","Ks,8",44
+"622","Tecozautla","Ks,10",44
+"623","Tecozautla","Ks,12",45
+"624","Tecozautla","Ks,14",45
+"625","Tecozautla","Ks,16",45
+"626","Tecozautla","Ks,18",45
+"627","Tecozautla","Ks,20",45
+"628","Tecozautla","Ks,22",45
+"629","Tecozautla","Ks,24",45
+"630","Tecozautla","Ks,26",45
+"631","Tetepango","Ks,0",41
+"632","Tetepango","Ks,2",50
+"633","Tetepango","Ks,4",49
+"634","Tetepango","Ks,6",47
+"635","Tetepango","Ks,8",47
+"636","Tetepango","Ks,10",47
+"637","Tetepango","Ks,12",47
+"638","Tetepango","Ks,14",47
+"639","Tetepango","Ks,16",47
+"640","Tetepango","Ks,18",46
+"641","Tetepango","Ks,20",46
+"642","Tetepango","Ks,22",46
+"643","Tetepango","Ks,24",46
+"644","Tetepango","Ks,26",46
+"645","Atotonilco El Grande","Ks,0",28
+"646","Atotonilco El Grande","Ks,2",44
+"647","Atotonilco El Grande","Ks,4",45
+"648","Atotonilco El Grande","Ks,6",46
+"649","Atotonilco El Grande","Ks,8",46
+"650","Atotonilco El Grande","Ks,10",46
+"651","Atotonilco El Grande","Ks,12",46
+"652","Atotonilco El Grande","Ks,14",46
+"653","Atotonilco El Grande","Ks,16",46
+"654","Atotonilco El Grande","Ks,18",47
+"655","Atotonilco El Grande","Ks,20",47
+"656","Atotonilco El Grande","Ks,22",47
+"657","Atotonilco El Grande","Ks,24",47
+"658","Atotonilco El Grande","Ks,26",47
+"659","Santiago De Anaya","Ks,0",61
+"660","Santiago De Anaya","Ks,2",53
+"661","Santiago De Anaya","Ks,4",51
+"662","Santiago De Anaya","Ks,6",48
+"663","Santiago De Anaya","Ks,8",48
+"664","Santiago De Anaya","Ks,10",48
+"665","Santiago De Anaya","Ks,12",48
+"666","Santiago De Anaya","Ks,14",48
+"667","Santiago De Anaya","Ks,16",48
+"668","Santiago De Anaya","Ks,18",48
+"669","Santiago De Anaya","Ks,20",48
+"670","Santiago De Anaya","Ks,22",48
+"671","Santiago De Anaya","Ks,24",48
+"672","Santiago De Anaya","Ks,26",48
+"673","El Arenal","Ks,0",66
+"674","El Arenal","Ks,2",54
+"675","El Arenal","Ks,4",54
+"676","El Arenal","Ks,6",53
+"677","El Arenal","Ks,8",51
+"678","El Arenal","Ks,10",50
+"679","El Arenal","Ks,12",49
+"680","El Arenal","Ks,14",49
+"681","El Arenal","Ks,16",49
+"682","El Arenal","Ks,18",49
+"683","El Arenal","Ks,20",49
+"684","El Arenal","Ks,22",49
+"685","El Arenal","Ks,24",49
+"686","El Arenal","Ks,26",49
+"687","ABI","Ks,0",71
+"688","ABI","Ks,2",46
+"689","ABI","Ks,4",50
+"690","ABI","Ks,6",49
+"691","ABI","Ks,8",49
+"692","ABI","Ks,10",49
+"693","ABI","Ks,12",50
+"694","ABI","Ks,14",50
+"695","ABI","Ks,16",50
+"696","ABI","Ks,18",50
+"697","ABI","Ks,20",50
+"698","ABI","Ks,22",50
+"699","ABI","Ks,24",50
+"700","ABI","Ks,26",50
+"701","Chilcuautla","Ks,0",33
+"702","Chilcuautla","Ks,2",57
+"703","Chilcuautla","Ks,4",55
+"704","Chilcuautla","Ks,6",54
+"705","Chilcuautla","Ks,8",53
+"706","Chilcuautla","Ks,10",52
+"707","Chilcuautla","Ks,12",51
+"708","Chilcuautla","Ks,14",51
+"709","Chilcuautla","Ks,16",51
+"710","Chilcuautla","Ks,18",51
+"711","Chilcuautla","Ks,20",51
+"712","Chilcuautla","Ks,22",51
+"713","Chilcuautla","Ks,24",51
+"714","Chilcuautla","Ks,26",51
+"715","Tepetitlan","Ks,0",51
+"716","Tepetitlan","Ks,2",58
+"717","Tepetitlan","Ks,4",56
+"718","Tepetitlan","Ks,6",55
+"719","Tepetitlan","Ks,8",55
+"720","Tepetitlan","Ks,10",53
+"721","Tepetitlan","Ks,12",53
+"722","Tepetitlan","Ks,14",53
+"723","Tepetitlan","Ks,16",52
+"724","Tepetitlan","Ks,18",52
+"725","Tepetitlan","Ks,20",52
+"726","Tepetitlan","Ks,22",52
+"727","Tepetitlan","Ks,24",52
+"728","Tepetitlan","Ks,26",52
+"729","SAM","Ks,0",35
+"730","SAM","Ks,2",42
+"731","SAM","Ks,4",48
+"732","SAM","Ks,6",50
+"733","SAM","Ks,8",50
+"734","SAM","Ks,10",51
+"735","SAM","Ks,12",52
+"736","SAM","Ks,14",52
+"737","SAM","Ks,16",53
+"738","SAM","Ks,18",53
+"739","SAM","Ks,20",53
+"740","SAM","Ks,22",53
+"741","SAM","Ks,24",53
+"742","SAM","Ks,26",53
+"743","SFO","Ks,0",50
+"744","SFO","Ks,2",52
+"745","SFO","Ks,4",52
+"746","SFO","Ks,6",52
+"747","SFO","Ks,8",54
+"748","SFO","Ks,10",54
+"749","SFO","Ks,12",54
+"750","SFO","Ks,14",54
+"751","SFO","Ks,16",54
+"752","SFO","Ks,18",54
+"753","SFO","Ks,20",54
+"754","SFO","Ks,22",54
+"755","SFO","Ks,24",54
+"756","SFO","Ks,26",54
+"757","Jaltocan","Ks,0",75
+"758","Jaltocan","Ks,2",40
+"759","Jaltocan","Ks,4",47
+"760","Jaltocan","Ks,6",51
+"761","Jaltocan","Ks,8",52
+"762","Jaltocan","Ks,10",55
+"763","Jaltocan","Ks,12",55
+"764","Jaltocan","Ks,14",55
+"765","Jaltocan","Ks,16",55
+"766","Jaltocan","Ks,18",55
+"767","Jaltocan","Ks,20",55
+"768","Jaltocan","Ks,22",55
+"769","Jaltocan","Ks,24",55
+"770","Jaltocan","Ks,26",55
+"771","Nicolas Flores","Ks,0",69
+"772","Nicolas Flores","Ks,2",55
+"773","Nicolas Flores","Ks,4",57
+"774","Nicolas Flores","Ks,6",57
+"775","Nicolas Flores","Ks,8",56
+"776","Nicolas Flores","Ks,10",56
+"777","Nicolas Flores","Ks,12",56
+"778","Nicolas Flores","Ks,14",56
+"779","Nicolas Flores","Ks,16",56
+"780","Nicolas Flores","Ks,18",56
+"781","Nicolas Flores","Ks,20",56
+"782","Nicolas Flores","Ks,22",56
+"783","Nicolas Flores","Ks,24",56
+"784","Nicolas Flores","Ks,26",56
+"785","Yahualica","Ks,0",70
+"786","Yahualica","Ks,2",51
+"787","Yahualica","Ks,4",53
+"788","Yahualica","Ks,6",56
+"789","Yahualica","Ks,8",57
+"790","Yahualica","Ks,10",57
+"791","Yahualica","Ks,12",57
+"792","Yahualica","Ks,14",57
+"793","Yahualica","Ks,16",57
+"794","Yahualica","Ks,18",57
+"795","Yahualica","Ks,20",57
+"796","Yahualica","Ks,22",57
+"797","Yahualica","Ks,24",57
+"798","Yahualica","Ks,26",57
+"799","Juarez Hidalgo","Ks,0",76
+"800","Juarez Hidalgo","Ks,2",63
+"801","Juarez Hidalgo","Ks,4",65
+"802","Juarez Hidalgo","Ks,6",60
+"803","Juarez Hidalgo","Ks,8",59
+"804","Juarez Hidalgo","Ks,10",59
+"805","Juarez Hidalgo","Ks,12",58
+"806","Juarez Hidalgo","Ks,14",58
+"807","Juarez Hidalgo","Ks,16",58
+"808","Juarez Hidalgo","Ks,18",58
+"809","Juarez Hidalgo","Ks,20",58
+"810","Juarez Hidalgo","Ks,22",58
+"811","Juarez Hidalgo","Ks,24",58
+"812","Juarez Hidalgo","Ks,26",58
+"813","Jacala","Ks,0",36
+"814","Jacala","Ks,2",56
+"815","Jacala","Ks,4",58
+"816","Jacala","Ks,6",58
+"817","Jacala","Ks,8",58
+"818","Jacala","Ks,10",58
+"819","Jacala","Ks,12",59
+"820","Jacala","Ks,14",59
+"821","Jacala","Ks,16",59
+"822","Jacala","Ks,18",59
+"823","Jacala","Ks,20",59
+"824","Jacala","Ks,22",59
+"825","Jacala","Ks,24",59
+"826","Jacala","Ks,26",59
+"827","Pacula","Ks,0",83
+"828","Pacula","Ks,2",72
+"829","Pacula","Ks,4",66
+"830","Pacula","Ks,6",66
+"831","Pacula","Ks,8",63
+"832","Pacula","Ks,10",62
+"833","Pacula","Ks,12",61
+"834","Pacula","Ks,14",61
+"835","Pacula","Ks,16",61
+"836","Pacula","Ks,18",60
+"837","Pacula","Ks,20",60
+"838","Pacula","Ks,22",60
+"839","Pacula","Ks,24",60
+"840","Pacula","Ks,26",60
+"841","Huasca","Ks,0",58
+"842","Huasca","Ks,2",59
+"843","Huasca","Ks,4",61
+"844","Huasca","Ks,6",61
+"845","Huasca","Ks,8",61
+"846","Huasca","Ks,10",60
+"847","Huasca","Ks,12",60
+"848","Huasca","Ks,14",60
+"849","Huasca","Ks,16",60
+"850","Huasca","Ks,18",61
+"851","Huasca","Ks,20",61
+"852","Huasca","Ks,22",61
+"853","Huasca","Ks,24",61
+"854","Huasca","Ks,26",61
+"855","Metztitlan","Ks,0",40
+"856","Metztitlan","Ks,2",60
+"857","Metztitlan","Ks,4",62
+"858","Metztitlan","Ks,6",62
+"859","Metztitlan","Ks,8",62
+"860","Metztitlan","Ks,10",61
+"861","Metztitlan","Ks,12",62
+"862","Metztitlan","Ks,14",62
+"863","Metztitlan","Ks,16",62
+"864","Metztitlan","Ks,18",62
+"865","Metztitlan","Ks,20",62
+"866","Metztitlan","Ks,22",62
+"867","Metztitlan","Ks,24",62
+"868","Metztitlan","Ks,26",62
+"869","Huehuetla","Ks,0",74
+"870","Huehuetla","Ks,2",66
+"871","Huehuetla","Ks,4",63
+"872","Huehuetla","Ks,6",64
+"873","Huehuetla","Ks,8",64
+"874","Huehuetla","Ks,10",64
+"875","Huehuetla","Ks,12",64
+"876","Huehuetla","Ks,14",64
+"877","Huehuetla","Ks,16",64
+"878","Huehuetla","Ks,18",63
+"879","Huehuetla","Ks,20",63
+"880","Huehuetla","Ks,22",63
+"881","Huehuetla","Ks,24",63
+"882","Huehuetla","Ks,26",63
+"883","Tenango De Doria","Ks,0",78
+"884","Tenango De Doria","Ks,2",67
+"885","Tenango De Doria","Ks,4",64
+"886","Tenango De Doria","Ks,6",65
+"887","Tenango De Doria","Ks,8",65
+"888","Tenango De Doria","Ks,10",65
+"889","Tenango De Doria","Ks,12",65
+"890","Tenango De Doria","Ks,14",65
+"891","Tenango De Doria","Ks,16",65
+"892","Tenango De Doria","Ks,18",64
+"893","Tenango De Doria","Ks,20",64
+"894","Tenango De Doria","Ks,22",64
+"895","Tenango De Doria","Ks,24",64
+"896","Tenango De Doria","Ks,26",64
+"897","Huautla","Ks,0",48
+"898","Huautla","Ks,2",61
+"899","Huautla","Ks,4",59
+"900","Huautla","Ks,6",59
+"901","Huautla","Ks,8",60
+"902","Huautla","Ks,10",63
+"903","Huautla","Ks,12",63
+"904","Huautla","Ks,14",63
+"905","Huautla","Ks,16",63
+"906","Huautla","Ks,18",65
+"907","Huautla","Ks,20",65
+"908","Huautla","Ks,22",65
+"909","Huautla","Ks,24",65
+"910","Huautla","Ks,26",65
+"911","Atlapexco","Ks,0",55
+"912","Atlapexco","Ks,2",62
+"913","Atlapexco","Ks,4",60
+"914","Atlapexco","Ks,6",63
+"915","Atlapexco","Ks,8",66
+"916","Atlapexco","Ks,10",66
+"917","Atlapexco","Ks,12",66
+"918","Atlapexco","Ks,14",66
+"919","Atlapexco","Ks,16",66
+"920","Atlapexco","Ks,18",66
+"921","Atlapexco","Ks,20",66
+"922","Atlapexco","Ks,22",66
+"923","Atlapexco","Ks,24",66
+"924","Atlapexco","Ks,26",66
+"925","Calnali","Ks,0",46
+"926","Calnali","Ks,2",68
+"927","Calnali","Ks,4",67
+"928","Calnali","Ks,6",67
+"929","Calnali","Ks,8",67
+"930","Calnali","Ks,10",67
+"931","Calnali","Ks,12",67
+"932","Calnali","Ks,14",67
+"933","Calnali","Ks,16",67
+"934","Calnali","Ks,18",67
+"935","Calnali","Ks,20",67
+"936","Calnali","Ks,22",67
+"937","Calnali","Ks,24",67
+"938","Calnali","Ks,26",67
+"939","Molango","Ks,0",49
+"940","Molango","Ks,2",69
+"941","Molango","Ks,4",68
+"942","Molango","Ks,6",68
+"943","Molango","Ks,8",68
+"944","Molango","Ks,10",68
+"945","Molango","Ks,12",68
+"946","Molango","Ks,14",68
+"947","Molango","Ks,16",68
+"948","Molango","Ks,18",68
+"949","Molango","Ks,20",68
+"950","Molango","Ks,22",68
+"951","Molango","Ks,24",68
+"952","Molango","Ks,26",68
+"953","Tlanchinol","Ks,0",52
+"954","Tlanchinol","Ks,2",70
+"955","Tlanchinol","Ks,4",69
+"956","Tlanchinol","Ks,6",69
+"957","Tlanchinol","Ks,8",69
+"958","Tlanchinol","Ks,10",69
+"959","Tlanchinol","Ks,12",69
+"960","Tlanchinol","Ks,14",69
+"961","Tlanchinol","Ks,16",69
+"962","Tlanchinol","Ks,18",69
+"963","Tlanchinol","Ks,20",69
+"964","Tlanchinol","Ks,22",69
+"965","Tlanchinol","Ks,24",69
+"966","Tlanchinol","Ks,26",69
+"967","Eloxochitlan","Ks,0",47
+"968","Eloxochitlan","Ks,2",71
+"969","Eloxochitlan","Ks,4",71
+"970","Eloxochitlan","Ks,6",71
+"971","Eloxochitlan","Ks,8",71
+"972","Eloxochitlan","Ks,10",70
+"973","Eloxochitlan","Ks,12",70
+"974","Eloxochitlan","Ks,14",70
+"975","Eloxochitlan","Ks,16",70
+"976","Eloxochitlan","Ks,18",70
+"977","Eloxochitlan","Ks,20",70
+"978","Eloxochitlan","Ks,22",70
+"979","Eloxochitlan","Ks,24",70
+"980","Eloxochitlan","Ks,26",70
+"981","Chapulhuacan","Ks,0",57
+"982","Chapulhuacan","Ks,2",64
+"983","Chapulhuacan","Ks,4",70
+"984","Chapulhuacan","Ks,6",70
+"985","Chapulhuacan","Ks,8",70
+"986","Chapulhuacan","Ks,10",71
+"987","Chapulhuacan","Ks,12",71
+"988","Chapulhuacan","Ks,14",71
+"989","Chapulhuacan","Ks,16",71
+"990","Chapulhuacan","Ks,18",71
+"991","Chapulhuacan","Ks,20",71
+"992","Chapulhuacan","Ks,22",71
+"993","Chapulhuacan","Ks,24",71
+"994","Chapulhuacan","Ks,26",71
+"995","Tianguistengo","Ks,0",64
+"996","Tianguistengo","Ks,2",75
+"997","Tianguistengo","Ks,4",73
+"998","Tianguistengo","Ks,6",72
+"999","Tianguistengo","Ks,8",72
+"1000","Tianguistengo","Ks,10",72
+"1001","Tianguistengo","Ks,12",72
+"1002","Tianguistengo","Ks,14",72
+"1003","Tianguistengo","Ks,16",72
+"1004","Tianguistengo","Ks,18",72
+"1005","Tianguistengo","Ks,20",72
+"1006","Tianguistengo","Ks,22",72
+"1007","Tianguistengo","Ks,24",72
+"1008","Tianguistengo","Ks,26",72
+"1009","Tlahuiltepa","Ks,0",65
+"1010","Tlahuiltepa","Ks,2",73
+"1011","Tlahuiltepa","Ks,4",74
+"1012","Tlahuiltepa","Ks,6",73
+"1013","Tlahuiltepa","Ks,8",73
+"1014","Tlahuiltepa","Ks,10",73
+"1015","Tlahuiltepa","Ks,12",73
+"1016","Tlahuiltepa","Ks,14",73
+"1017","Tlahuiltepa","Ks,16",73
+"1018","Tlahuiltepa","Ks,18",73
+"1019","Tlahuiltepa","Ks,20",73
+"1020","Tlahuiltepa","Ks,22",73
+"1021","Tlahuiltepa","Ks,24",73
+"1022","Tlahuiltepa","Ks,26",73
+"1023","Pisaflores","Ks,0",60
+"1024","Pisaflores","Ks,2",74
+"1025","Pisaflores","Ks,4",72
+"1026","Pisaflores","Ks,6",74
+"1027","Pisaflores","Ks,8",74
+"1028","Pisaflores","Ks,10",74
+"1029","Pisaflores","Ks,12",74
+"1030","Pisaflores","Ks,14",74
+"1031","Pisaflores","Ks,16",74
+"1032","Pisaflores","Ks,18",74
+"1033","Pisaflores","Ks,20",74
+"1034","Pisaflores","Ks,22",74
+"1035","Pisaflores","Ks,24",74
+"1036","Pisaflores","Ks,26",74
+"1037","Lolotla","Ks,0",68
+"1038","Lolotla","Ks,2",76
+"1039","Lolotla","Ks,4",76
+"1040","Lolotla","Ks,6",75
+"1041","Lolotla","Ks,8",75
+"1042","Lolotla","Ks,10",75
+"1043","Lolotla","Ks,12",75
+"1044","Lolotla","Ks,14",75
+"1045","Lolotla","Ks,16",75
+"1046","Lolotla","Ks,18",75
+"1047","Lolotla","Ks,20",75
+"1048","Lolotla","Ks,22",75
+"1049","Lolotla","Ks,24",75
+"1050","Lolotla","Ks,26",75
+"1051","Xochicoatlan","Ks,0",53
+"1052","Xochicoatlan","Ks,2",77
+"1053","Xochicoatlan","Ks,4",77
+"1054","Xochicoatlan","Ks,6",76
+"1055","Xochicoatlan","Ks,8",76
+"1056","Xochicoatlan","Ks,10",76
+"1057","Xochicoatlan","Ks,12",76
+"1058","Xochicoatlan","Ks,14",76
+"1059","Xochicoatlan","Ks,16",76
+"1060","Xochicoatlan","Ks,18",76
+"1061","Xochicoatlan","Ks,20",76
+"1062","Xochicoatlan","Ks,22",76
+"1063","Xochicoatlan","Ks,24",76
+"1064","Xochicoatlan","Ks,26",76
+"1065","Huazalingo","Ks,0",73
+"1066","Huazalingo","Ks,2",81
+"1067","Huazalingo","Ks,4",78
+"1068","Huazalingo","Ks,6",78
+"1069","Huazalingo","Ks,8",77
+"1070","Huazalingo","Ks,10",77
+"1071","Huazalingo","Ks,12",77
+"1072","Huazalingo","Ks,14",77
+"1073","Huazalingo","Ks,16",77
+"1074","Huazalingo","Ks,18",77
+"1075","Huazalingo","Ks,20",77
+"1076","Huazalingo","Ks,22",77
+"1077","Huazalingo","Ks,24",77
+"1078","Huazalingo","Ks,26",77
+"1079","Xochiatipan","Ks,0",79
+"1080","Xochiatipan","Ks,2",82
+"1081","Xochiatipan","Ks,4",79
+"1082","Xochiatipan","Ks,6",79
+"1083","Xochiatipan","Ks,8",78
+"1084","Xochiatipan","Ks,10",78
+"1085","Xochiatipan","Ks,12",78
+"1086","Xochiatipan","Ks,14",78
+"1087","Xochiatipan","Ks,16",78
+"1088","Xochiatipan","Ks,18",78
+"1089","Xochiatipan","Ks,20",78
+"1090","Xochiatipan","Ks,22",78
+"1091","Xochiatipan","Ks,24",78
+"1092","Xochiatipan","Ks,26",78
+"1093","La Mision","Ks,0",77
+"1094","La Mision","Ks,2",79
+"1095","La Mision","Ks,4",80
+"1096","La Mision","Ks,6",80
+"1097","La Mision","Ks,8",79
+"1098","La Mision","Ks,10",79
+"1099","La Mision","Ks,12",79
+"1100","La Mision","Ks,14",79
+"1101","La Mision","Ks,16",79
+"1102","La Mision","Ks,18",79
+"1103","La Mision","Ks,20",79
+"1104","La Mision","Ks,22",79
+"1105","La Mision","Ks,24",79
+"1106","La Mision","Ks,26",79
+"1107","Tepehuacan","Ks,0",63
+"1108","Tepehuacan","Ks,2",78
+"1109","Tepehuacan","Ks,4",81
+"1110","Tepehuacan","Ks,6",81
+"1111","Tepehuacan","Ks,8",81
+"1112","Tepehuacan","Ks,10",80
+"1113","Tepehuacan","Ks,12",80
+"1114","Tepehuacan","Ks,14",80
+"1115","Tepehuacan","Ks,16",80
+"1116","Tepehuacan","Ks,18",80
+"1117","Tepehuacan","Ks,20",80
+"1118","Tepehuacan","Ks,22",80
+"1119","Tepehuacan","Ks,24",80
+"1120","Tepehuacan","Ks,26",80
+"1121","SBT","Ks,0",81
+"1122","SBT","Ks,2",80
+"1123","SBT","Ks,4",82
+"1124","SBT","Ks,6",82
+"1125","SBT","Ks,8",82
+"1126","SBT","Ks,10",82
+"1127","SBT","Ks,12",82
+"1128","SBT","Ks,14",82
+"1129","SBT","Ks,16",81
+"1130","SBT","Ks,18",81
+"1131","SBT","Ks,20",81
+"1132","SBT","Ks,22",81
+"1133","SBT","Ks,24",81
+"1134","SBT","Ks,26",81
+"1135","Zimapan","Ks,0",45
+"1136","Zimapan","Ks,2",65
+"1137","Zimapan","Ks,4",75
+"1138","Zimapan","Ks,6",77
+"1139","Zimapan","Ks,8",80
+"1140","Zimapan","Ks,10",81
+"1141","Zimapan","Ks,12",81
+"1142","Zimapan","Ks,14",81
+"1143","Zimapan","Ks,16",82
+"1144","Zimapan","Ks,18",82
+"1145","Zimapan","Ks,20",82
+"1146","Zimapan","Ks,22",82
+"1147","Zimapan","Ks,24",82
+"1148","Zimapan","Ks,26",82
+"1149","Mineral Del Chico","Ks,0",80
+"1150","Mineral Del Chico","Ks,2",83
+"1151","Mineral Del Chico","Ks,4",83
+"1152","Mineral Del Chico","Ks,6",83
+"1153","Mineral Del Chico","Ks,8",83
+"1154","Mineral Del Chico","Ks,10",83
+"1155","Mineral Del Chico","Ks,12",83
+"1156","Mineral Del Chico","Ks,14",83
+"1157","Mineral Del Chico","Ks,16",83
+"1158","Mineral Del Chico","Ks,18",83
+"1159","Mineral Del Chico","Ks,20",83
+"1160","Mineral Del Chico","Ks,22",83
+"1161","Mineral Del Chico","Ks,24",83
+"1162","Mineral Del Chico","Ks,26",83
